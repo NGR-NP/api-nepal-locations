@@ -289,10 +289,10 @@ curl "https://nepal-location-api.<your-domain>.workers.dev/ward/5001"
 
 ## License
 
-MIT
+[MIT](https://github.com/NGR-NP/api-nepal-locations/tree/main?tab=MIT-1-ov-file)
 
 ---
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
+- [NGR](https://github.com/ngr-np)
