@@ -219,8 +219,8 @@ GET /ward/{id}
 ### 1. Clone the repo
 
 ```sh
-git clone <your-repo-url>
-cd <project-directory>
+git clone https://github.com/NGR-NP/api-nepal-locations
+cd api-nepal-locations
 ```
 
 ### 2. Install dependencies
