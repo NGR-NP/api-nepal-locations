@@ -1,62 +1,86 @@
 [
   {
     "id": "5092",
-    "name": "इटहरी उपमहानगरपालिका",
-    "name_en": "Itahari Sub-Metropolitan City"
+    "name_en": "Itahari",
+    "name": "इटहरी",
+    "type_en": "Sub-Metropolitan City",
+    "type": "उपमहानगरपालिका"
   },
   {
     "id": "5093",
-    "name": "इनरुवा नगरपालिका",
-    "name_en": "Inaruwa Municipality"
+    "name_en": "Inaruwa",
+    "name": "इनरुवा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5094",
-    "name": "कोशी गाउँपालिका",
-    "name_en": "Koshi Rural Municipality"
+    "name_en": "Koshi",
+    "name": "कोशी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5095",
-    "name": "गढी गाउँपालिका",
-    "name_en": "Gadhi Rural Municipality"
+    "name_en": "Gadhi",
+    "name": "गढी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5096",
-    "name": "दुहवी नगरपालिका",
-    "name_en": "Duhabi Municipality"
+    "name_en": "Duhabi",
+    "name": "दुहवी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5097",
-    "name": "देवानगञ्ज गाउँपालिका",
-    "name_en": "Dewanganj Rural Municipality"
+    "name_en": "Dewanganj",
+    "name": "देवानगञ्ज",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5098",
-    "name": "धरान उपमहानगरपालिका",
-    "name_en": "Dharan Sub-Metropolitan City"
+    "name_en": "Dharan",
+    "name": "धरान",
+    "type_en": "Sub-Metropolitan City",
+    "type": "उपमहानगरपालिका"
   },
   {
     "id": "5099",
-    "name": "बराहक्षेत्र नगरपालिका",
-    "name_en": "Barahchhetra Municipality"
+    "name_en": "Barahchhetra",
+    "name": "बराहक्षेत्र",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5100",
-    "name": "बर्जु गाउँपालिका",
-    "name_en": "Barju Rural Municipality"
+    "name_en": "Barju",
+    "name": "बर्जु",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5101",
-    "name": "भोक्राहा नरसिंह गाउँपालिका",
-    "name_en": "Bhokraha Narsingh Rural Municipality"
+    "name_en": "Bhokraha Narsingh",
+    "name": "भोक्राहा नरसिंह",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5102",
-    "name": "रामधुनी नगरपालिका",
-    "name_en": "Ramdhuni Municipality"
+    "name_en": "Ramdhuni",
+    "name": "रामधुनी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5103",
-    "name": "हरिनगर गाउँपालिका",
-    "name_en": "Harinagar Rural Municipality"
+    "name_en": "Harinagar",
+    "name": "हरिनगर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

@@ -1,27 +1,37 @@
 [
   {
     "id": "5251",
-    "name": "आमाछोदिङमो गाउँपालिका",
-    "name_en": "Aamachhodingmo Rural Municipality"
+    "name_en": "Aamachhodingmo",
+    "name": "आमाछोदिङमो",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5247",
-    "name": "उत्तरगया गाउँपालिका",
-    "name_en": "Uttargaya Rural Municipality"
+    "name_en": "Uttargaya",
+    "name": "उत्तरगया",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5248",
-    "name": "कालिका गाउँपालिका",
-    "name_en": "Kalika Rural Municipality"
+    "name_en": "Kalika",
+    "name": "कालिका",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5249",
-    "name": "गोसाईकुण्ड गाउँपालिका",
-    "name_en": "Gosaikunda Rural Municipality"
+    "name_en": "Gosaikunda",
+    "name": "गोसाईकुण्ड",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5250",
-    "name": "नौकुण्ड गाउँपालिका",
-    "name_en": "Naukunda Rural Municipality"
+    "name_en": "Naukunda",
+    "name": "नौकुण्ड",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

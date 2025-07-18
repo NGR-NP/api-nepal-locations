@@ -1,72 +1,100 @@
 [
   {
     "id": "5881",
-    "name": "कालिकामाई गाउँपालिका",
-    "name_en": "Kalikamai Rural Municipality"
+    "name_en": "Kalikamai",
+    "name": "कालिकामाई",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5364",
-    "name": "छिपहरमाई गाउँपालिका",
-    "name_en": "Chhipaharmai Rural Municipality"
+    "name_en": "Chhipaharmai",
+    "name": "छिपहरमाई",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5365",
-    "name": "जगरनाथपुर गाउँपालिका",
-    "name_en": "Jagarnathpur Rural Municipality"
+    "name_en": "Jagarnathpur",
+    "name": "जगरनाथपुर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5882",
-    "name": "जिराभवानी गाउँपालिका",
-    "name_en": "Jirabhawani Rural Municipality"
+    "name_en": "Jirabhawani",
+    "name": "जिराभवानी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5883",
-    "name": "ठोरी गाउँपालिका",
-    "name_en": "Thori Rural Municipality"
+    "name_en": "Thori",
+    "name": "ठोरी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5366",
-    "name": "धोबीनी गाउँपालिका",
-    "name_en": "Dhobini Rural Municipality"
+    "name_en": "Dhobini",
+    "name": "धोबीनी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5367",
-    "name": "पकाहा मैनपुर गाउँपालिका",
-    "name_en": "Pakaha Mainpur Rural Municipality"
+    "name_en": "Pakaha Mainpur",
+    "name": "पकाहा मैनपुर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5884",
-    "name": "पटेर्वा सुगौली गाउँपालिका",
-    "name_en": "Paterwa Sugauli Rural Municipality"
+    "name_en": "Paterwa Sugauli",
+    "name": "पटेर्वा सुगौली",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5885",
-    "name": "पर्सागढी नगरपालिका",
-    "name_en": "Parsagadhi Municipality"
+    "name_en": "Parsagadhi",
+    "name": "पर्सागढी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5886",
-    "name": "पोखरिया नगरपालिका",
-    "name_en": "Pokhariya Municipality"
+    "name_en": "Pokhariya",
+    "name": "पोखरिया",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5887",
-    "name": "बहुदरमाई नगरपालिका",
-    "name_en": "Bahudarmai Municipality"
+    "name_en": "Bahudarmai",
+    "name": "बहुदरमाई",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5372",
-    "name": "बिन्दबासिनी गाउँपालिका",
-    "name_en": "Bindabasini Rural Municipality"
+    "name_en": "Bindabasini",
+    "name": "बिन्दबासिनी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5888",
-    "name": "वीरगंज महानगरपालिका",
-    "name_en": "Birgunj Metropolitan City"
+    "name_en": "Birgunj",
+    "name": "वीरगंज",
+    "type_en": "Metropolitan City",
+    "type": "महानगरपालिका"
   },
   {
     "id": "5375",
-    "name": "सखुवा प्रसौनी गाउँपालिका",
-    "name_en": "Sakhuwa Prasauni Rural Municipality"
+    "name_en": "Sakhuwa Prasauni",
+    "name": "सखुवा प्रसौनी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

@@ -1,52 +1,72 @@
 [
   {
     "id": "5112",
-    "name": "ऐसेलुखर्क गाउँपालिका",
-    "name_en": "Aiselukharka Rural Municipality"
+    "name_en": "Aiselukharka",
+    "name": "ऐसेलुखर्क",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5113",
-    "name": "केपिलासगढी गाउँपालिका",
-    "name_en": "Kepilasgadhi Rural Municipality"
+    "name_en": "Kepilasgadhi",
+    "name": "केपिलासगढी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5114",
-    "name": "खोटेहाङ गाउँपालिका",
-    "name_en": "Khotehang Rural Municipality"
+    "name_en": "Khotehang",
+    "name": "खोटेहाङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5115",
-    "name": "जन्तेढुंगा गाउँपालिका",
-    "name_en": "Jantedhunga Rural Municipality"
+    "name_en": "Jantedhunga",
+    "name": "जन्तेढुंगा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5118",
-    "name": "दिक्तेल रुपाकोट मझुवागढी नगरपालिका",
-    "name_en": "Diktel Rupakot Majhuwagadhi Municipality"
+    "name_en": "Diktel Rupakot Majhuwagadhi",
+    "name": "दिक्तेल रुपाकोट मझुवागढी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5116",
-    "name": "दिप्रुङ चुइचुम्मा गाउँपालिका",
-    "name_en": "Diprung Chuichumma Rural Municipality"
+    "name_en": "Diprung Chuichumma",
+    "name": "दिप्रुङ चुइचुम्मा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5119",
-    "name": "रावा बेसी गाउँपालिका",
-    "name_en": "Rawa Besi Rural Municipality"
+    "name_en": "Rawa Besi",
+    "name": "रावा बेसी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5117",
-    "name": "वराहपोखरी गाउँपालिका",
-    "name_en": "Barahpokhari Rural Municipality"
+    "name_en": "Barahpokhari",
+    "name": "वराहपोखरी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5120",
-    "name": "साकेला गाउँपालिका",
-    "name_en": "Sakela Rural Municipality"
+    "name_en": "Sakela",
+    "name": "साकेला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5121",
-    "name": "हलेसी तुवाचुङ नगरपालिका",
-    "name_en": "Halesi Tuwachung Municipality"
+    "name_en": "Halesi Tuwachung",
+    "name": "हलेसी तुवाचुङ",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   }
 ]

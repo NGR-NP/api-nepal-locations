@@ -1,47 +1,65 @@
 [
   {
     "id": "5189",
-    "name": "कमलामाई नगरपालिका",
-    "name_en": "Kamalamai Municipality"
+    "name_en": "Kamalamai",
+    "name": "कमलामाई",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5190",
-    "name": "गोलन्जोर गाउँपालिका",
-    "name_en": "Golanjor Rural Municipality"
+    "name_en": "Golanjor",
+    "name": "गोलन्जोर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5191",
-    "name": "घ्याङलेख गाउँपालिका",
-    "name_en": "Ghyanglekh Rural Municipality"
+    "name_en": "Ghyanglekh",
+    "name": "घ्याङलेख",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5192",
-    "name": "तीनपाटन गाउँपालिका",
-    "name_en": "Tinpatan Rural Municipality"
+    "name_en": "Tinpatan",
+    "name": "तीनपाटन",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5193",
-    "name": "दुधौली नगरपालिका",
-    "name_en": "Dudhauli Municipality"
+    "name_en": "Dudhauli",
+    "name": "दुधौली",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5194",
-    "name": "फिक्कल गाउँपालिका",
-    "name_en": "Phikkal Rural Municipality"
+    "name_en": "Phikkal",
+    "name": "फिक्कल",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5195",
-    "name": "मरिण गाउँपालिका",
-    "name_en": "Marin Rural Municipality"
+    "name_en": "Marin",
+    "name": "मरिण",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5196",
-    "name": "सुनकोशी गाउँपालिका",
-    "name_en": "Sunkoshi Rural Municipality"
+    "name_en": "Sunkoshi",
+    "name": "सुनकोशी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5197",
-    "name": "हरिहरपुरगढी गाउँपालिका",
-    "name_en": "Hariharpurgadhi Rural Municipality"
+    "name_en": "Hariharpurgadhi",
+    "name": "हरिहरपुरगढी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

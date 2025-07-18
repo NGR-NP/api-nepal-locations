@@ -1,52 +1,72 @@
 [
   {
     "id": "5492",
-    "name": "कपिलवस्तु नगरपालिका",
-    "name_en": "Kapilvastu Municipality"
+    "name_en": "Kapilvastu",
+    "name": "कपिलवस्तु",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5493",
-    "name": "कृष्णनगर नगरपालिका",
-    "name_en": "Krishnanagar Municipality"
+    "name_en": "Krishnanagar",
+    "name": "कृष्णनगर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5494",
-    "name": "बाणगंगा नगरपालिका",
-    "name_en": "Banganga Municipality"
+    "name_en": "Banganga",
+    "name": "बाणगंगा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5495",
-    "name": "बुद्धभुमी नगरपालिका",
-    "name_en": "Buddhabhumi Municipality"
+    "name_en": "Buddhabhumi",
+    "name": "बुद्धभुमी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5496",
-    "name": "महाराजगंज नगरपालिका",
-    "name_en": "Maharajganj Municipality"
+    "name_en": "Maharajganj",
+    "name": "महाराजगंज",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5497",
-    "name": "मायादेवी गाउँपालिका",
-    "name_en": "Mayadevi Rural Municipality"
+    "name_en": "Mayadevi",
+    "name": "मायादेवी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5498",
-    "name": "यसोधरा गाउँपालिका",
-    "name_en": "Yashodhara Rural Municipality"
+    "name_en": "Yashodhara",
+    "name": "यसोधरा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5499",
+    "name_en": "Bijayanagar",
     "name": "विजयनगर गाउँपाल��का",
-    "name_en": "Bijayanagar Rural Municipality"
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5500",
-    "name": "शिवराज नगरपालिका",
-    "name_en": "Shivaraj Municipality"
+    "name_en": "Shivaraj",
+    "name": "शिवराज",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5501",
-    "name": "शुद्धोधन गाउँपालिका",
-    "name_en": "Suddhodhan Rural Municipality"
+    "name_en": "Suddhodhan",
+    "name": "शुद्धोधन",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

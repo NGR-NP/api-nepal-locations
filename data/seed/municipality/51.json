@@ -1,37 +1,51 @@
 [
   {
     "id": "5523",
-    "name": "कुश्मा नगरपालिका",
-    "name_en": "Kushma Municipality"
+    "name_en": "Kushma",
+    "name": "कुश्मा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5524",
-    "name": "जलजला गाउँपालिका",
-    "name_en": "Jaljala Rural Municipality"
+    "name_en": "Jaljala",
+    "name": "जलजला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5525",
-    "name": "पैयूं गाउँपालिका",
-    "name_en": "Paiyun Rural Municipality"
+    "name_en": "Paiyun",
+    "name": "पैयूं",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5526",
-    "name": "फलेवास नगरपालिका",
-    "name_en": "Phalebas Municipality"
+    "name_en": "Phalebas",
+    "name": "फलेवास",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5527",
-    "name": "महाशिला गाउँपालिका",
-    "name_en": "Mahashila Rural Municipality"
+    "name_en": "Mahashila",
+    "name": "महाशिला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5528",
-    "name": "मोदी गाउँपालिका",
-    "name_en": "Modi Rural Municipality"
+    "name_en": "Modi",
+    "name": "मोदी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5529",
-    "name": "विहादी गाउँपालिका",
-    "name_en": "Bihadi Rural Municipality"
+    "name_en": "Bihadi",
+    "name": "विहादी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

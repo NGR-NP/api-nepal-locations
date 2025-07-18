@@ -1,52 +1,72 @@
 [
   {
     "id": "5666",
-    "name": "कमलबजार नगरपालिका",
-    "name_en": "Kamalbazar Municipality"
+    "name_en": "Kamalbazar",
+    "name": "कमलबजार",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5667",
-    "name": "चौरपाटी गाउँपालिका",
-    "name_en": "Chaurpati Rural Municipality"
+    "name_en": "Chaurpati",
+    "name": "चौरपाटी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5668",
-    "name": "ढकारी गाउँपालिका",
-    "name_en": "Dhakari Rural Municipality"
+    "name_en": "Dhakari",
+    "name": "ढकारी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5669",
-    "name": "तुर्माखाँद गाउँपालिका",
-    "name_en": "Turmakhand Rural Municipality"
+    "name_en": "Turmakhand",
+    "name": "तुर्माखाँद",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5670",
-    "name": "पञ्चदेवल विनायक नगरपालिका",
-    "name_en": "Panchadewal Binayak Municipality"
+    "name_en": "Panchadewal Binayak",
+    "name": "पञ्चदेवल विनायक",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5671",
-    "name": "बान्नीगढी जयगढ गाउँपालिका",
-    "name_en": "Bannigadhi Jayagad Rural Municipality"
+    "name_en": "Bannigadhi Jayagad",
+    "name": "बान्नीगढी जयगढ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5672",
-    "name": "मंगलसेन नगरपालिका",
-    "name_en": "Mangalsen Municipality"
+    "name_en": "Mangalsen",
+    "name": "मंगलसेन",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5673",
-    "name": "मेल्लेख गाउँपालिका",
-    "name_en": "Mellekh Rural Municipality"
+    "name_en": "Mellekh",
+    "name": "मेल्लेख",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5674",
-    "name": "रामारोशन गाउँपालिका",
-    "name_en": "Ramaroshan Rural Municipality"
+    "name_en": "Ramaroshan",
+    "name": "रामारोशन",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5675",
-    "name": "साँफेवगर नगरपालिका",
-    "name_en": "Sanphebagar Municipality"
+    "name_en": "Sanphebagar",
+    "name": "साँफेवगर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   }
 ]

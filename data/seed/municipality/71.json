@@ -1,67 +1,93 @@
 [
   {
     "id": "5697",
-    "name": "कैलारी गाउँपालिका",
-    "name_en": "Kailari Rural Municipality"
+    "name_en": "Kailari",
+    "name": "कैलारी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5698",
-    "name": "गोदावरी नगरपालिका",
-    "name_en": "Godawari Municipality"
+    "name_en": "Godawari",
+    "name": "गोदावरी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5699",
-    "name": "गौरीगंगा नगरपालिका",
-    "name_en": "Gauriganga Municipality"
+    "name_en": "Gauriganga",
+    "name": "गौरीगंगा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5700",
-    "name": "घोडाघोडी नगरपालिका",
-    "name_en": "Ghodaghodi Municipality"
+    "name_en": "Ghodaghodi",
+    "name": "घोडाघोडी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5701",
-    "name": "चुरे गाउँपालिका",
-    "name_en": "Chure Rural Municipality"
+    "name_en": "Chure",
+    "name": "चुरे",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5702",
-    "name": "जानकी गाउँपालिका",
-    "name_en": "Janaki Rural Municipality"
+    "name_en": "Janaki",
+    "name": "जानकी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5703",
-    "name": "जोशीपुर गाउँपालिका",
-    "name_en": "Joshipur Rural Municipality"
+    "name_en": "Joshipur",
+    "name": "जोशीपुर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5704",
-    "name": "टिकापुर नगरपालिका",
-    "name_en": "Tikapur Municipality"
+    "name_en": "Tikapur",
+    "name": "टिकापुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5705",
-    "name": "धनगढी उपमहानगरपालिका",
-    "name_en": "Dhangadhi Sub-Metropolitan City"
+    "name_en": "Dhangadhi",
+    "name": "धनगढी",
+    "type_en": "Sub-Metropolitan City",
+    "type": "उपमहानगरपालिका"
   },
   {
     "id": "5706",
-    "name": "बर्दगोरिया गाउँपालिका",
-    "name_en": "Bardagoriya Rural Municipality"
+    "name_en": "Bardagoriya",
+    "name": "बर्दगोरिया",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5707",
-    "name": "भजनी नगरपालिका",
-    "name_en": "Bhajani Municipality"
+    "name_en": "Bhajani",
+    "name": "भजनी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5708",
-    "name": "मोहन्याल गाउँपालिका",
-    "name_en": "Mohanyal Rural Municipality"
+    "name_en": "Mohanyal",
+    "name": "मोहन्याल",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5709",
-    "name": "लम्कीचुहा नगरपालिका",
-    "name_en": "Lamkichuha Municipality"
+    "name_en": "Lamkichuha",
+    "name": "लम्कीचुहा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   }
 ]

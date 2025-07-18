@@ -1,32 +1,44 @@
 [
   {
     "id": "5455",
-    "name": "छत्रदेव गाउँपालिका",
-    "name_en": "Chhatradev Rural Municipality"
+    "name_en": "Chhatradev",
+    "name": "छत्रदेव",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5456",
-    "name": "पाणिनी गाउँपालिका",
-    "name_en": "Panini Rural Municipality"
+    "name_en": "Panini",
+    "name": "पाणिनी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5457",
-    "name": "भूमिकास्थान नगरपालिका",
-    "name_en": "Bhumikasthan Municipality"
+    "name_en": "Bhumikasthan",
+    "name": "भूमिकास्थान",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5458",
-    "name": "मालारानी गाउँपालिका",
-    "name_en": "Malarani Rural Municipality"
+    "name_en": "Malarani",
+    "name": "मालारानी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5460",
-    "name": "शितगंगा नगरपालिका",
-    "name_en": "Sitganga Municipality"
+    "name_en": "Sitganga",
+    "name": "शितगंगा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5459",
-    "name": "सन्धिखर्क नगरपालिका",
-    "name_en": "Sandhikharka Municipality"
+    "name_en": "Sandhikharka",
+    "name": "सन्धिखर्क",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   }
 ]

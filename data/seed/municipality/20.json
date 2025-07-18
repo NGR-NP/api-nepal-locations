@@ -1,92 +1,128 @@
 [
   {
     "id": "5820",
-    "name": "औरही गाउँपालिका",
-    "name_en": "Aurahi Rural Municipality"
+    "name_en": "Aurahi",
+    "name": "औरही",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5821",
-    "name": "कमला नगरपालिका",
-    "name_en": "Kamala Municipality"
+    "name_en": "Kamala",
+    "name": "कमला",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5822",
-    "name": "क्षिरेश्वरनाथ नगरपालिका",
-    "name_en": "Kshireswornath Municipality"
+    "name_en": "Kshireswornath",
+    "name": "क्षिरेश्वरनाथ",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5823",
-    "name": "गणेशमान चारनाथ नगरपालिका",
-    "name_en": "Ganeshman Charnath Municipality"
+    "name_en": "Ganeshman Charnath",
+    "name": "गणेशमान चारनाथ",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5824",
-    "name": "जनकनन्दिनी गाउँपालिका",
-    "name_en": "Janaknandani Rural Municipality"
+    "name_en": "Janaknandani",
+    "name": "जनकनन्दिनी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5825",
-    "name": "जनकपुरधाम उपमहानगरपालिका",
-    "name_en": "Janakpurdham Sub-Metropolitan City"
+    "name_en": "Janakpurdham",
+    "name": "जनकपुरधाम",
+    "type_en": "Sub-Metropolitan City",
+    "type": "उपमहानगरपालिका"
   },
   {
     "id": "5826",
-    "name": "धनुषाधाम नगरपालिका",
-    "name_en": "Dhanushadham Municipality"
+    "name_en": "Dhanushadham",
+    "name": "धनुषाधाम",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5827",
-    "name": "धनौजी गाउँपालिका",
-    "name_en": "Dhanauji Rural Municipality"
+    "name_en": "Dhanauji",
+    "name": "धनौजी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5828",
-    "name": "नगराइन नगरपालिका",
-    "name_en": "Nagarain Municipality"
+    "name_en": "Nagarain",
+    "name": "नगराइन",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5829",
-    "name": "बटेश्वर गाउँपालिका",
-    "name_en": "Bateshwar Rural Municipality"
+    "name_en": "Bateshwar",
+    "name": "बटेश्वर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5830",
-    "name": "मिथिला नगरपालिका",
-    "name_en": "Mithila Municipality"
+    "name_en": "Mithila",
+    "name": "मिथिला",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5831",
-    "name": "मिथिला बिहारी नगरपालिका",
-    "name_en": "Mithila Bihari Municipality"
+    "name_en": "Mithila Bihari",
+    "name": "मिथिला बिहारी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5832",
-    "name": "मुखियापट्टी मुसहरनिया गाउँपालिका",
-    "name_en": "Mukhiyapatti Musaharmiya Rural Municipality"
+    "name_en": "Mukhiyapatti Musaharmiya",
+    "name": "मुखियापट्टी मुसहरनिया",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5833",
-    "name": "लक्ष्मीनिया गाउँपालिका",
-    "name_en": "Laxminiya Rural Municipality"
+    "name_en": "Laxminiya",
+    "name": "लक्ष्मीनिया",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5834",
-    "name": "विदेह नगरपालिका",
-    "name_en": "Bideha Municipality"
+    "name_en": "Bideha",
+    "name": "विदेह",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5835",
-    "name": "शहीदनगर नगरपालिका",
-    "name_en": "Shahidnagar Municipality"
+    "name_en": "Shahidnagar",
+    "name": "शहीदनगर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5836",
-    "name": "सबैला नगरपालिका",
-    "name_en": "Sabaila Municipality"
+    "name_en": "Sabaila",
+    "name": "सबैला",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5837",
-    "name": "हंसपुर नगरपालिका",
-    "name_en": "Hansapur Municipality"
+    "name_en": "Hansapur",
+    "name": "हंसपुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   }
 ]

@@ -1,52 +1,72 @@
 [
   {
     "id": "5018",
-    "name": "इलाम नगरपालिका",
-    "name_en": "Ilam Municipality"
+    "name_en": "Ilam",
+    "name": "इलाम",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5019",
-    "name": "चुलाचुली गाउँपालिका",
-    "name_en": "Chulachuli Rural Municipality"
+    "name_en": "Chulachuli",
+    "name": "चुलाचुली",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5020",
-    "name": "देउमाई नगरपालिका",
-    "name_en": "Deumai Municipality"
+    "name_en": "Deumai",
+    "name": "देउमाई",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5021",
-    "name": "फाकफोकथुम गाउँपालिका",
-    "name_en": "Phakphokthum Rural Municipality"
+    "name_en": "Phakphokthum",
+    "name": "फाकफोकथुम",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5022",
-    "name": "माई नगरपालिका",
-    "name_en": "Mai Municipality"
+    "name_en": "Mai",
+    "name": "माई",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5023",
-    "name": "माईजोगमाई गाउँपालिका",
-    "name_en": "Maijogmai Rural Municipality"
+    "name_en": "Maijogmai",
+    "name": "माईजोगमाई",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5024",
-    "name": "माङसेबुङ गाउँपालिका",
-    "name_en": "Mangsebung Rural Municipality"
+    "name_en": "Mangsebung",
+    "name": "माङसेबुङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5025",
-    "name": "रोङ गाउँपालिका",
-    "name_en": "Rong Rural Municipality"
+    "name_en": "Rong",
+    "name": "रोङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5026",
-    "name": "सन्दक���ुर गाउँपालिका",
-    "name_en": "Sandakpur Rural Municipality"
+    "name_en": "Sandakpur",
+    "name": "सन्दक���ुर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5027",
-    "name": "सूर्योदय नगरपालिका",
-    "name_en": "Suryodaya Municipality"
+    "name_en": "Suryodaya",
+    "name": "सूर्योदय",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   }
 ]

@@ -1,22 +1,30 @@
 [
   {
     "id": "5288",
-    "name": "चाँगुनारायण नगरपालिका",
-    "name_en": "Changunarayan Municipality"
+    "name_en": "Changunarayan",
+    "name": "चाँगुनारायण",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5289",
-    "name": "भक्तपुर नगरपालिका",
-    "name_en": "Bhaktapur Municipality"
+    "name_en": "Bhaktapur",
+    "name": "भक्तपुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5290",
-    "name": "मध्यपुर थिमी नगरपालिका",
-    "name_en": "Madhyapur Thimi Municipality"
+    "name_en": "Madhyapur Thimi",
+    "name": "मध्यपुर थिमी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5291",
-    "name": "सूर्यविनायक नगरपालिका",
-    "name_en": "Suryabinayak Municipality"
+    "name_en": "Suryabinayak",
+    "name": "सूर्यविनायक",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   }
 ]

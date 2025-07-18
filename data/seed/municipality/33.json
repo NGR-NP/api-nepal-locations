@@ -1,82 +1,114 @@
 [
   {
     "id": "5349",
-    "name": "आदर्श कोतवाल गाउँपालिका",
-    "name_en": "Adarsha Kotwal Rural Municipality"
+    "name_en": "Adarsha Kotwal",
+    "name": "आदर्श कोतवाल",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5350",
-    "name": "करैयामाई गाउँपालिका",
-    "name_en": "Kariyamaai Rural Municipality"
+    "name_en": "Kariyamaai",
+    "name": "करैयामाई",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5351",
-    "name": "कलैया उपमहानगरपालिका",
-    "name_en": "Kalaiya Sub-Metropolitan City"
+    "name_en": "Kalaiya",
+    "name": "कलैया",
+    "type_en": "Sub-Metropolitan City",
+    "type": "उपमहानगरपालिका"
   },
   {
     "id": "5352",
-    "name": "कोल्हवी नगरपालिका",
-    "name_en": "Kolhabi Municipality"
+    "name_en": "Kolhabi",
+    "name": "कोल्हवी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5353",
-    "name": "जीतपुरसिमरा उपमहानगरपालिका",
-    "name_en": "Jitpur Simara Sub-Metropolitan City"
+    "name_en": "Jitpur Simara",
+    "name": "जीतपुरसिमरा",
+    "type_en": "Sub-Metropolitan City",
+    "type": "उपमहानगरपालिका"
   },
   {
     "id": "5354",
-    "name": "देवताल गाउँपालिका",
-    "name_en": "Devtal Rural Municipality"
+    "name_en": "Devtal",
+    "name": "देवताल",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5355",
-    "name": "निजगढ नगरपालिका",
-    "name_en": "Nijgadh Municipality"
+    "name_en": "Nijgadh",
+    "name": "निजगढ",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5876",
-    "name": "��चरौता नगरपालिका",
-    "name_en": "Pacharauta Municipality"
+    "name_en": "Pacharauta",
+    "name": "��चरौता",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5877",
-    "name": "परवानीपुर गाउँपालिका",
-    "name_en": "Parwanipur Rural Municipality"
+    "name_en": "Parwanipur",
+    "name": "परवानीपुर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5878",
-    "name": "प्रसौनी गाउँपालिका",
-    "name_en": "Prasauni Rural Municipality"
+    "name_en": "Prasauni",
+    "name": "प्रसौनी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5879",
-    "name": "फेटा गाउँपालिका",
-    "name_en": "Pheta Rural Municipality"
+    "name_en": "Pheta",
+    "name": "फेटा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5360",
-    "name": "बारागढी गाउँपालिका",
-    "name_en": "Baragadhi Rural Municipality"
+    "name_en": "Baragadhi",
+    "name": "बारागढी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5361",
-    "name": "महागढीमाई नगरपालिका",
-    "name_en": "Mahagadhimai Municipality"
+    "name_en": "Mahagadhimai",
+    "name": "महागढीमाई",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5880",
-    "name": "विश्रामपुर गाउँपालिका",
-    "name_en": "Bishrampur Rural Municipality"
+    "name_en": "Bishrampur",
+    "name": "विश्रामपुर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5362",
-    "name": "सिम्रौनगढ नगरपालिका",
-    "name_en": "Simraungadh Municipality"
+    "name_en": "Simraungadh",
+    "name": "सिम्रौनगढ",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5363",
-    "name": "सुवर्ण गाउँपालिका",
-    "name_en": "Suwarna Rural Municipality"
+    "name_en": "Suwarna",
+    "name": "सुवर्ण",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

@@ -1,37 +1,51 @@
 [
   {
     "id": "5607",
-    "name": "अदानचुली गाउँपालिका",
-    "name_en": "Adanchuli Rural Municipality"
+    "name_en": "Adanchuli",
+    "name": "अदानचुली",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5608",
-    "name": "खार्पुनाथ गाउँपालिका",
-    "name_en": "Kharpunath Rural Municipality"
+    "name_en": "Kharpunath",
+    "name": "खार्पुनाथ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5609",
-    "name": "चंखेली गाउँपालिका",
-    "name_en": "Chankheli Rural Municipality"
+    "name_en": "Chankheli",
+    "name": "चंखेली",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5610",
-    "name": "ताँजाकोट गाउँपालिका",
-    "name_en": "Tajakot Rural Municipality"
+    "name_en": "Tajakot",
+    "name": "ताँजाकोट",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5611",
-    "name": "नाम्खा गाउँपालिका",
-    "name_en": "Namkha Rural Municipality"
+    "name_en": "Namkha",
+    "name": "नाम्खा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5612",
-    "name": "सर्केगाड गाउँपालिका",
-    "name_en": "Sarkegad Rural Municipality"
+    "name_en": "Sarkegad",
+    "name": "सर्केगाड",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5613",
-    "name": "सिमकोट गाउँपालिका",
-    "name_en": "Simkot Rural Municipality"
+    "name_en": "Simkot",
+    "name": "सिमकोट",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

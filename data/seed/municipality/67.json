@@ -1,47 +1,65 @@
 [
   {
     "id": "5658",
-    "name": "खप्तड छेडेदह गाउँपालिका",
-    "name_en": "Khaptad Chhededaha Rural Municipality"
+    "name_en": "Khaptad Chhededaha",
+    "name": "खप्तड छेडेदह",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5657",
-    "name": "गौमुल गाउँपालिका",
-    "name_en": "Gaumul Rural Municipality"
+    "name_en": "Gaumul",
+    "name": "गौमुल",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5660",
-    "name": "जगन्नाथ गाउँपालिका",
-    "name_en": "Jagannath Rural Municipality"
+    "name_en": "Jagannath",
+    "name": "जगन्नाथ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5659",
-    "name": "त्रिवेणी नगरपालिका",
-    "name_en": "Triveni Municipality"
+    "name_en": "Triveni",
+    "name": "त्रिवेणी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5661",
-    "name": "बडीमालिका नगरपालिका",
-    "name_en": "Badimalika Municipality"
+    "name_en": "Badimalika",
+    "name": "बडीमालिका",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5662",
-    "name": "बुढीगंगा नगरपालिका",
-    "name_en": "Budhiganga Municipality"
+    "name_en": "Budhiganga",
+    "name": "बुढीगंगा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5663",
-    "name": "बुढीनन्दा नगरपालिका",
-    "name_en": "Budhinanda Municipality"
+    "name_en": "Budhinanda",
+    "name": "बुढीनन्दा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5664",
-    "name": "स्वामीकार्��िक खापर गाउँपालिका",
-    "name_en": "Swami Kartik Khapar Rural Municipality"
+    "name_en": "Swami Kartik Khapar",
+    "name": "स्वामीकार्��िक खापर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5665",
-    "name": "हिमाली गाउँपालिका",
-    "name_en": "Himali Rural Municipality"
+    "name_en": "Himali",
+    "name": "हिमाली",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

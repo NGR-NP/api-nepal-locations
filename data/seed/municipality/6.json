@@ -1,32 +1,44 @@
 [
   {
     "id": "5053",
-    "name": "आठराई गाउँपालिका",
-    "name_en": "Aathrai Rural Municipality"
+    "name_en": "Aathrai",
+    "name": "आठराई",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5054",
-    "name": "छथर गाउँपालिका",
-    "name_en": "Chhathar Rural Municipality"
+    "name_en": "Chhathar",
+    "name": "छथर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5055",
-    "name": "फेदाप गाउँपालिका",
-    "name_en": "Fedap Rural Municipality"
+    "name_en": "Fedap",
+    "name": "फेदाप",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5056",
-    "name": "मेन्छयायेम गाउँपालिका",
-    "name_en": "Menchhayayem Rural Municipality"
+    "name_en": "Menchhayayem",
+    "name": "मेन्छयायेम",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5057",
-    "name": "म्याङलुङ नगरपालिका",
-    "name_en": "Myanglung Municipality"
+    "name_en": "Myanglung",
+    "name": "म्याङलुङ",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5058",
-    "name": "लालीगुराँस नगरपालिका",
-    "name_en": "Laligurans Municipality"
+    "name_en": "Laligurans",
+    "name": "लालीगुराँस",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   }
 ]

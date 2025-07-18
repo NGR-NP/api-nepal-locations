@@ -1,67 +1,93 @@
 [
   {
     "id": "5298",
-    "name": "खानीखोला गाउँपालिका",
-    "name_en": "Khanikhola Rural Municipality"
+    "name_en": "Khanikhola",
+    "name": "खानीखोला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5299",
-    "name": "चौंरीदेउराली गाउँपालिका",
-    "name_en": "Chaurideurali Rural Municipality"
+    "name_en": "Chaurideurali",
+    "name": "चौंरीदेउराली",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5300",
-    "name": "तेमाल गाउँपालिका",
-    "name_en": "Temal Rural Municipality"
+    "name_en": "Temal",
+    "name": "तेमाल",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5301",
-    "name": "धुलिखेल नगरपालिका",
-    "name_en": "Dhulikhel Municipality"
+    "name_en": "Dhulikhel",
+    "name": "धुलिखेल",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5302",
-    "name": "नमोबुद्ध नगरपालिका",
-    "name_en": "Namobuddha Municipality"
+    "name_en": "Namobuddha",
+    "name": "नमोबुद्ध",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5303",
-    "name": "पनौती नगरपालिका",
-    "name_en": "Panauti Municipality"
+    "name_en": "Panauti",
+    "name": "पनौती",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5304",
-    "name": "पाँचखाल नगरपालिका",
-    "name_en": "Panchkhal Municipality"
+    "name_en": "Panchkhal",
+    "name": "पाँचखाल",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5305",
-    "name": "बनेपा नगरपालिका",
-    "name_en": "Banepa Municipality"
+    "name_en": "Banepa",
+    "name": "बनेपा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5306",
-    "name": "बेथानचोक गाउँपालिका",
-    "name_en": "Bethanchok Rural Municipality"
+    "name_en": "Bethanchok",
+    "name": "बेथानचोक",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5307",
-    "name": "भुम्लु गाउँपालिका",
-    "name_en": "Bhumlu Rural Municipality"
+    "name_en": "Bhumlu",
+    "name": "भुम्लु",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5308",
-    "name": "मण्डनदेउपुर नगरपालिका",
-    "name_en": "Mandan Deupur Municipality"
+    "name_en": "Mandan Deupur",
+    "name": "मण्डनदेउपुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5309",
-    "name": "महाभारत गाउँपालिका",
-    "name_en": "Mahabharat Rural Municipality"
+    "name_en": "Mahabharat",
+    "name": "महाभारत",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5310",
-    "name": "रोशी गाउँपालिका",
-    "name_en": "Roshi Rural Municipality"
+    "name_en": "Roshi",
+    "name": "रोशी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

@@ -1,52 +1,72 @@
 [
   {
     "id": "5719",
-    "name": "डीलासैनी गाउँपालिका",
-    "name_en": "Dilasaini Rural Municipality"
+    "name_en": "Dilasaini",
+    "name": "डीलासैनी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5720",
-    "name": "दशरथचन्द नगरपालिका",
-    "name_en": "Dasharathchand Municipality"
+    "name_en": "Dasharathchand",
+    "name": "दशरथचन्द",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5721",
-    "name": "दोगडाकेदार गाउँपालिका",
-    "name_en": "Dogadakedar Rural Municipality"
+    "name_en": "Dogadakedar",
+    "name": "दोगडाकेदार",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5722",
-    "name": "पञ्चेश्वर गाउँपालिका",
-    "name_en": "Pancheshwar Rural Municipality"
+    "name_en": "Pancheshwar",
+    "name": "पञ्चेश्वर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5723",
-    "name": "पाटन नगरपालिका",
-    "name_en": "Patan Municipality"
+    "name_en": "Patan",
+    "name": "पाटन",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5724",
-    "name": "पुर्चौडी नगरपालिका",
-    "name_en": "Purchaudi Municipality"
+    "name_en": "Purchaudi",
+    "name": "पुर्चौडी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5725",
-    "name": "मेलौली नगरपालिका",
-    "name_en": "Melauli Municipality"
+    "name_en": "Melauli",
+    "name": "मेलौली",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5726",
-    "name": "शिवनाथ गाउँपालिका",
-    "name_en": "Shivanath Rural Municipality"
+    "name_en": "Shivanath",
+    "name": "शिवनाथ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5727",
-    "name": "सिगास गाउँपालिका",
-    "name_en": "Sigas Rural Municipality"
+    "name_en": "Sigas",
+    "name": "सिगास",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5728",
-    "name": "सुर्नया गाउँपालिका",
-    "name_en": "Surnaya Rural Municipality"
+    "name_en": "Surnaya",
+    "name": "सुर्नया",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

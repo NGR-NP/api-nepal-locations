@@ -1,52 +1,72 @@
 [
   {
     "id": "5445",
-    "name": "तानसेन नगरपालिका",
-    "name_en": "Tansen Municipality"
+    "name_en": "Tansen",
+    "name": "तानसेन",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5446",
-    "name": "तिनाउ गाउँपालिका",
-    "name_en": "Tinau Rural Municipality"
+    "name_en": "Tinau",
+    "name": "तिनाउ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5447",
-    "name": "निस्दी गाउँपालिका",
-    "name_en": "Nisdi Rural Municipality"
+    "name_en": "Nisdi",
+    "name": "निस्दी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5448",
-    "name": "पूर्वखोला गाउँपालिका",
-    "name_en": "Purbakhola Rural Municipality"
+    "name_en": "Purbakhola",
+    "name": "पूर्वखोला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5449",
-    "name": "बगनासकाली गाउँपालिका",
-    "name_en": "Bagnaskali Rural Municipality"
+    "name_en": "Bagnaskali",
+    "name": "बगनासकाली",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5450",
-    "name": "माथागढी गाउँपालिका",
-    "name_en": "Mathagadhi Rural Municipality"
+    "name_en": "Mathagadhi",
+    "name": "माथागढी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5451",
-    "name": "रम्भा गाउँपालिका",
-    "name_en": "Rambha Rural Municipality"
+    "name_en": "Rambha",
+    "name": "रम्भा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5452",
-    "name": "रामपुर नगरपालिका",
-    "name_en": "Rampur Municipality"
+    "name_en": "Rampur",
+    "name": "रामपुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5453",
-    "name": "रिब्दीकोट गाउँपालिका",
-    "name_en": "Ribdikot Rural Municipality"
+    "name_en": "Ribdikot",
+    "name": "रिब्दीकोट",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5454",
-    "name": "रैनादेवी छहरा गाउँपालिका",
-    "name_en": "Rainadevi Chhahara Rural Municipality"
+    "name_en": "Rainadevi Chhahara",
+    "name": "रैनादेवी छहरा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

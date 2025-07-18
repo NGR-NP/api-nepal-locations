@@ -1,42 +1,58 @@
 [
   {
     "id": "5181",
-    "name": "उमाकुण्ड गाउँपालिका",
-    "name_en": "Umakunda Rural Municipality"
+    "name_en": "Umakunda",
+    "name": "उमाकुण्ड",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5182",
-    "name": "खाँडादेवी गाउँपालिका",
-    "name_en": "Khadadevi Rural Municipality"
+    "name_en": "Khadadevi",
+    "name": "खाँडादेवी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5183",
-    "name": "गोकुलगङ्गा गाउँपालिका",
-    "name_en": "Gokulganga Rural Municipality"
+    "name_en": "Gokulganga",
+    "name": "गोकुलगङ्गा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5184",
-    "name": "दोरम्बा शैलुङ गाउँपालिका",
-    "name_en": "Doramba Shailung Rural Municipality"
+    "name_en": "Doramba Shailung",
+    "name": "दोरम्बा शैलुङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5185",
-    "name": "मन्थली नगरपालिका",
-    "name_en": "Manthali Municipality"
+    "name_en": "Manthali",
+    "name": "मन्थली",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5186",
-    "name": "रामेछाप नगरपालिका",
-    "name_en": "Ramechhap Municipality"
+    "name_en": "Ramechhap",
+    "name": "रामेछाप",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5187",
-    "name": "लिखु तामाकोशी गाउँपालिका",
-    "name_en": "Likhu Tamakoshi Rural Municipality"
+    "name_en": "Likhu Tamakoshi",
+    "name": "लिखु तामाकोशी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5188",
-    "name": "सुनापति गाउँपालिका",
-    "name_en": "Sunapati Rural Municipality"
+    "name_en": "Sunapati",
+    "name": "सुनापति",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

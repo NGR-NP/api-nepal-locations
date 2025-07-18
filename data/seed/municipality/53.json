@@ -1,52 +1,72 @@
 [
   {
     "id": "5546",
-    "name": "गंगादेव गाउँपालिका",
-    "name_en": "Gangadev Rural Municipality"
+    "name_en": "Gangadev",
+    "name": "गंगादेव",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5539",
-    "name": "त्रिवेणी गाउँपालिका",
-    "name_en": "Triveni Rural Municipality"
+    "name_en": "Triveni",
+    "name": "त्रिवेणी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5540",
-    "name": "थवाङ गाउँपालिका",
-    "name_en": "Thawang Rural Municipality"
+    "name_en": "Thawang",
+    "name": "थवाङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5541",
-    "name": "परिवर्तन गाउँपालिका",
-    "name_en": "Pariwartan Rural Municipality"
+    "name_en": "Pariwartan",
+    "name": "परिवर्तन",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5542",
-    "name": "माडी गाउँपालिका",
-    "name_en": "Madi Rural Municipality"
+    "name_en": "Madi",
+    "name": "माडी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5543",
-    "name": "रुन्टीगढी गाउँपालिका",
-    "name_en": "Runtigadhi Rural Municipality"
+    "name_en": "Runtigadhi",
+    "name": "रुन्टीगढी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5544",
-    "name": "रोल्पा नगरपालिका",
-    "name_en": "Rolpa Municipality"
+    "name_en": "Rolpa",
+    "name": "रोल्पा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5545",
-    "name": "लुङग्री गाउँपालिका",
-    "name_en": "Lungri Rural Municipality"
+    "name_en": "Lungri",
+    "name": "लुङग्री",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5547",
-    "name": "सुनछहरी गाउँपालिका",
-    "name_en": "Sunchhahari Rural Municipality"
+    "name_en": "Sunchhahari",
+    "name": "सुनछहरी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5548",
-    "name": "सुनिल स्मृति गाउँपालिका",
-    "name_en": "Sunil Smriti Rural Municipality"
+    "name_en": "Sunil Smriti",
+    "name": "सुनिल स्मृति",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

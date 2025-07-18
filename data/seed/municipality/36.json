@@ -1,57 +1,79 @@
 [
   {
     "id": "5384",
-    "name": "अजिरकोट गाउँपालिका",
-    "name_en": "Ajirkot Rural Municipality"
+    "name_en": "Ajirkot",
+    "name": "अजिरकोट",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5385",
-    "name": "आरूघाट गाउँपालिका",
-    "name_en": "Aarughat Rural Municipality"
+    "name_en": "Aarughat",
+    "name": "आरूघाट",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5386",
-    "name": "गण्डकी गाउँपालिका",
-    "name_en": "Gandaki Rural Municipality"
+    "name_en": "Gandaki",
+    "name": "गण्डकी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5387",
-    "name": "गोरखा नगरपालिका",
-    "name_en": "Gorkha Municipality"
+    "name_en": "Gorkha",
+    "name": "गोरखा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5388",
-    "name": "चुमनुव्री गाउँपालिका",
-    "name_en": "Chumanubri Rural Municipality"
+    "name_en": "Chumanubri",
+    "name": "चुमनुव्री",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5389",
-    "name": "धार्चे गाउँपालिका",
-    "name_en": "Dharche Rural Municipality"
+    "name_en": "Dharche",
+    "name": "धार्चे",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5390",
-    "name": "पालुङटार नगरपालिका",
-    "name_en": "Palungtar Municipality"
+    "name_en": "Palungtar",
+    "name": "पालुङटार",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5394",
+    "name_en": "Barpak Sulikot",
     "name": "बारपाक सुलिकोट गाउँपा��िका",
-    "name_en": "Barpak Sulikot Rural Municipality"
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5391",
-    "name": "भिमसेनथापा गाउँपालिका",
-    "name_en": "Bhimsen Thapa Rural Municipality"
+    "name_en": "Bhimsen Thapa",
+    "name": "भिमसेनथापा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5392",
-    "name": "शहिद लखन गाउँपालिका",
-    "name_en": "Shahid Lakhan Rural Municipality"
+    "name_en": "Shahid Lakhan",
+    "name": "शहिद लखन",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5393",
-    "name": "सिरानचोक गाउँपालिका",
-    "name_en": "Siranchok Rural Municipality"
+    "name_en": "Siranchok",
+    "name": "सिरानचोक",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

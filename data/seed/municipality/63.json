@@ -1,57 +1,79 @@
 [
   {
     "id": "5621",
-    "name": "आठबीस नगरपालिका",
-    "name_en": "Aathbis Municipality"
+    "name_en": "Aathbis",
+    "name": "आठबीस",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5622",
-    "name": "गुराँस गाउँपालिका",
-    "name_en": "Gurans Rural Municipality"
+    "name_en": "Gurans",
+    "name": "गुराँस",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5623",
-    "name": "चामुण्डा बिन्द्रासैनी नगरपालिका",
-    "name_en": "Chamunda Bindrasaini Municipality"
+    "name_en": "Chamunda Bindrasaini",
+    "name": "चामुण्डा बिन्द्रासैनी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5624",
-    "name": "ठाँटीकाँध गाउँपालिका",
-    "name_en": "Thantikandh Rural Municipality"
+    "name_en": "Thantikandh",
+    "name": "ठाँटीकाँध",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5625",
-    "name": "डुंगेश्वर गाउँपालिका",
-    "name_en": "Dungeshwar Rural Municipality"
+    "name_en": "Dungeshwar",
+    "name": "डुंगेश्वर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5626",
-    "name": "दुल्लु नगरपालिका",
-    "name_en": "Dullu Municipality"
+    "name_en": "Dullu",
+    "name": "दुल्लु",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5627",
-    "name": "नारायण नगरपालिका",
-    "name_en": "Narayan Municipality"
+    "name_en": "Narayan",
+    "name": "नारायण",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5628",
-    "name": "नौमुले गाउँपालिका",
-    "name_en": "Naumule Rural Municipality"
+    "name_en": "Naumule",
+    "name": "नौमुले",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5629",
-    "name": "भगवतीमाई गाउँपालिका",
-    "name_en": "Bhagawatimai Rural Municipality"
+    "name_en": "Bhagawatimai",
+    "name": "भगवतीमाई",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5630",
-    "name": "भैरवी गाउँपालिका",
-    "name_en": "Bhairabi Rural Municipality"
+    "name_en": "Bhairabi",
+    "name": "भैरवी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5631",
-    "name": "महाबु गाउँपालिका",
-    "name_en": "Mahabu Rural Municipality"
+    "name_en": "Mahabu",
+    "name": "महाबु",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

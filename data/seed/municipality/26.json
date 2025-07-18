@@ -1,57 +1,79 @@
 [
   {
     "id": "5277",
-    "name": "कागेश्वरी मनोहरा नगरपालिका",
-    "name_en": "Kageshwari Manohara Municipality"
+    "name_en": "Kageshwari Manohara",
+    "name": "कागेश्वरी मनोहरा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5278",
-    "name": "काठमाडौँ महानगरपालिका",
-    "name_en": "Kathmandu Metropolitan City"
+    "name_en": "Kathmandu",
+    "name": "काठमाडौँ",
+    "type_en": "Metropolitan City",
+    "type": "महानगरपालिका"
   },
   {
     "id": "5279",
-    "name": "कीर्तिपुर नगरपालिका",
-    "name_en": "Kirtipur Municipality"
+    "name_en": "Kirtipur",
+    "name": "कीर्तिपुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5280",
-    "name": "गोकर्णेश्वर नगरपालिका",
-    "name_en": "Gokarneshwar Municipality"
+    "name_en": "Gokarneshwar",
+    "name": "गोकर्णेश्वर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5281",
-    "name": "चन्द्रागिरी नगरपालिका",
-    "name_en": "Chandragiri Municipality"
+    "name_en": "Chandragiri",
+    "name": "चन्द्रागिरी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5282",
-    "name": "टोखा नगरपालिका",
-    "name_en": "Tokha Municipality"
+    "name_en": "Tokha",
+    "name": "टोखा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5283",
-    "name": "तारकेश्वर नगरपालिका",
-    "name_en": "Tarakeshwor Municipality"
+    "name_en": "Tarakeshwor",
+    "name": "तारकेश्वर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5284",
-    "name": "दक्षिणकाली नगरपालिका",
-    "name_en": "Dakshinkali Municipality"
+    "name_en": "Dakshinkali",
+    "name": "दक्षिणकाली",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5285",
-    "name": "नागार्जुन नगरपालिका",
-    "name_en": "Nagarjun Municipality"
+    "name_en": "Nagarjun",
+    "name": "नागार्जुन",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5286",
-    "name": "बुढानिलकण्ठ नगरपालिका",
-    "name_en": "Budhanilkantha Municipality"
+    "name_en": "Budhanilkantha",
+    "name": "बुढानिलकण्ठ",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5287",
-    "name": "शंखरापुर नगरपालिका",
-    "name_en": "Shankharapur Municipality"
+    "name_en": "Shankharapur",
+    "name": "शंखरापुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   }
 ]

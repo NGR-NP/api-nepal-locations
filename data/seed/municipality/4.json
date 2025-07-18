@@ -1,77 +1,107 @@
 [
   {
     "id": "5028",
-    "name": "अर्जुनधारा नगरपालिका",
-    "name_en": "Arjundhara Municipality"
+    "name_en": "Arjundhara",
+    "name": "अर्जुनधारा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5029",
-    "name": "कचनकवल गाउँपालिका",
-    "name_en": "Kachankawal Rural Municipality"
+    "name_en": "Kachankawal",
+    "name": "कचनकवल",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5030",
-    "name": "कन्काई नगरपालिका",
-    "name_en": "Kankai Municipality"
+    "name_en": "Kankai",
+    "name": "कन्काई",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5031",
-    "name": "कमल गाउँपालिका",
-    "name_en": "Kamal Rural Municipality"
+    "name_en": "Kamal",
+    "name": "कमल",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5032",
-    "name": "गौरादह नगरपालिका",
-    "name_en": "Gauradaha Municipality"
+    "name_en": "Gauradaha",
+    "name": "गौरादह",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5033",
-    "name": "गौरीगञ्‍ज गाउँपालिका",
-    "name_en": "Gauriganj Rural Municipality"
+    "name_en": "Gauriganj",
+    "name": "गौरीगञ्‍ज",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5034",
-    "name": "झापा गाउँपालिका",
-    "name_en": "Jhapa Rural Municipality"
+    "name_en": "Jhapa",
+    "name": "झापा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5035",
-    "name": "दमक नगरपालिका",
-    "name_en": "Damak Municipality"
+    "name_en": "Damak",
+    "name": "दमक",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5036",
+    "name_en": "Barhadashi",
     "name": "बाह्रदशी ग���उँपालिका",
-    "name_en": "Barhadashi Rural Municipality"
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5037",
-    "name": "बुद्धशान्ति गाउँपालिका",
-    "name_en": "Buddhashanti Rural Municipality"
+    "name_en": "Buddhashanti",
+    "name": "बुद्धशान्ति",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5038",
-    "name": "भद्रपुर नगरपालिका",
-    "name_en": "Bhadrapur Municipality"
+    "name_en": "Bhadrapur",
+    "name": "भद्रपुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5039",
-    "name": "मेचीनगर नगरपालिका",
-    "name_en": "Mechinagar Municipality"
+    "name_en": "Mechinagar",
+    "name": "मेचीनगर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5040",
-    "name": "विर्तामोड नगरपालिका",
-    "name_en": "Birtamod Municipality"
+    "name_en": "Birtamod",
+    "name": "विर्तामोड",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5041",
-    "name": "शिवसताक्षी नगरपालिका",
-    "name_en": "Shivasatakshi Municipality"
+    "name_en": "Shivasatakshi",
+    "name": "शिवसताक्षी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5042",
-    "name": "हल्दिबारी गाउँपालिका",
-    "name_en": "Haldibari Rural Municipality"
+    "name_en": "Haldibari",
+    "name": "हल्दिबारी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

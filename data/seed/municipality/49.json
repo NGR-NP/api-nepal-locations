@@ -1,32 +1,44 @@
 [
   {
     "id": "5507",
-    "name": "अन्नपूर्ण गाउँपालिका",
-    "name_en": "Annapurna Rural Municipality"
+    "name_en": "Annapurna",
+    "name": "अन्नपूर्ण",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5508",
-    "name": "धवलागिरी गाउँपालिका",
-    "name_en": "Dhawalagiri Rural Municipality"
+    "name_en": "Dhawalagiri",
+    "name": "धवलागिरी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5509",
-    "name": "बेनी नगरपालिका",
-    "name_en": "Beni Municipality"
+    "name_en": "Beni",
+    "name": "बेनी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5510",
-    "name": "मंगला गाउँपालिका",
-    "name_en": "Mangala Rural Municipality"
+    "name_en": "Mangala",
+    "name": "मंगला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5511",
-    "name": "मालिका गाउँपालिका",
-    "name_en": "Malika Rural Municipality"
+    "name_en": "Malika",
+    "name": "मालिका",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5512",
-    "name": "रघुगंगा गाउँपालिका",
-    "name_en": "Raghuganga Rural Municipality"
+    "name_en": "Raghuganga",
+    "name": "रघुगंगा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

@@ -1,57 +1,79 @@
 [
   {
     "id": "5422",
-    "name": "अर्जुनचौपारी गाउँपालिका",
-    "name_en": "Arjunchaupari Rural Municipality"
+    "name_en": "Arjunchaupari",
+    "name": "अर्जुनचौपारी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5423",
-    "name": "आँधिखोला गाउँपालिका",
-    "name_en": "Aandhikhola Rural Municipality"
+    "name_en": "Aandhikhola",
+    "name": "आँधिखोला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5424",
-    "name": "कालीगण्डकी गाउँपालिका",
-    "name_en": "Kaligandaki Rural Municipality"
+    "name_en": "Kaligandaki",
+    "name": "कालीगण्डकी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5425",
-    "name": "गल्याङ नगरपालिका",
-    "name_en": "Galyang Municipality"
+    "name_en": "Galyang",
+    "name": "गल्याङ",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5426",
-    "name": "चापाकोट नगरपालिका",
-    "name_en": "Chapakot Municipality"
+    "name_en": "Chapakot",
+    "name": "चापाकोट",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5427",
-    "name": "पुतलीबजार नगरपालिका",
-    "name_en": "Putalibazar Municipality"
+    "name_en": "Putalibazar",
+    "name": "पुतलीबजार",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5428",
-    "name": "फेदीखोला गाउँपालिका",
-    "name_en": "Phedikhola Rural Municipality"
+    "name_en": "Phedikhola",
+    "name": "फेदीखोला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5429",
-    "name": "भीरक��ट नगरपालिका",
-    "name_en": "Bhirkot Municipality"
+    "name_en": "Bhirkot",
+    "name": "भीरक��ट",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5430",
-    "name": "वालिङ नगरपालिका",
-    "name_en": "Waling Municipality"
+    "name_en": "Waling",
+    "name": "वालिङ",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5431",
-    "name": "विरुवा गाउँपालिका",
-    "name_en": "Biruwa Rural Municipality"
+    "name_en": "Biruwa",
+    "name": "विरुवा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5432",
-    "name": "हरिनास गाउँपालिका",
-    "name_en": "Harinas Rural Municipality"
+    "name_en": "Harinas",
+    "name": "हरिनास",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

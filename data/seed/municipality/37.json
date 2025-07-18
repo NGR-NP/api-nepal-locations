@@ -1,22 +1,30 @@
 [
   {
     "id": "5395",
-    "name": "चामे गाउँपालिका",
-    "name_en": "Chame Rural Municipality"
+    "name_en": "Chame",
+    "name": "चामे",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5396",
-    "name": "नार्पा भूमि गाउँपालिका",
-    "name_en": "Narpa Bhumi Rural Municipality"
+    "name_en": "Narpa Bhumi",
+    "name": "नार्पा भूमि",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5397",
-    "name": "नासोँ गाउँपालिका",
-    "name_en": "Nason Rural Municipality"
+    "name_en": "Nason",
+    "name": "नासोँ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5398",
-    "name": "मनाङ ङिस्याङ गाउँपालिका",
-    "name_en": "Manang Ngisyang Rural Municipality"
+    "name_en": "Manang Ngisyang",
+    "name": "मनाङ ङिस्याङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

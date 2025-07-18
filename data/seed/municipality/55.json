@@ -1,52 +1,72 @@
 [
   {
     "id": "5558",
-    "name": "कपुरकोट गाउँपालिका",
-    "name_en": "Kapurkot Rural Municipality"
+    "name_en": "Kapurkot",
+    "name": "कपुरकोट",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5559",
-    "name": "कालिमाटी गाउँपालिका",
-    "name_en": "Kalimati Rural Municipality"
+    "name_en": "Kalimati",
+    "name": "कालिमाटी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5560",
-    "name": "कुमाख गाउँपालिका",
-    "name_en": "Kumakh Rural Municipality"
+    "name_en": "Kumakh",
+    "name": "कुमाख",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5561",
-    "name": "छत्रेश्वरी गाउँपालिका",
-    "name_en": "Chhatreshwari Rural Municipality"
+    "name_en": "Chhatreshwari",
+    "name": "छत्रेश्वरी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5563",
-    "name": "त्रिवेणी गाउँपालिका",
-    "name_en": "Triveni Rural Municipality"
+    "name_en": "Triveni",
+    "name": "त्रिवेणी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5564",
-    "name": "दार्मा गाउँपालिका",
-    "name_en": "Darma Rural Municipality"
+    "name_en": "Darma",
+    "name": "दार्मा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5565",
-    "name": "बनगाड कुपिण्डे नगरपालिका",
-    "name_en": "Bangad Kupinde Municipality"
+    "name_en": "Bangad Kupinde",
+    "name": "बनगाड कुपिण्डे",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5566",
-    "name": "बागचौर नगरपालिका",
-    "name_en": "Bagchaur Municipality"
+    "name_en": "Bagchaur",
+    "name": "बागचौर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5567",
-    "name": "शारदा नगरपालिका",
-    "name_en": "Sharada Municipality"
+    "name_en": "Sharada",
+    "name": "शारदा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5562",
-    "name": "सिद्ध कुमाख गाउँपालिका",
-    "name_en": "Siddha Kumakh Rural Municipality"
+    "name_en": "Siddha Kumakh",
+    "name": "सिद्ध कुमाख",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

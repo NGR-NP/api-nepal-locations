@@ -1,42 +1,58 @@
 [
   {
     "id": "5130",
-    "name": "उदयपुरगढी गाउँपालिका",
-    "name_en": "Udayapurgadhi Rural Municipality"
+    "name_en": "Udayapurgadhi",
+    "name": "उदयपुरगढी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5131",
-    "name": "कटारी नगरपालिका",
-    "name_en": "Katari Municipality"
+    "name_en": "Katari",
+    "name": "कटारी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5132",
-    "name": "चौदण्डीगढी नगरपालिका",
-    "name_en": "Chaudandigadhi Municipality"
+    "name_en": "Chaudandigadhi",
+    "name": "चौदण्डीगढी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5133",
-    "name": "ताप्ली गाउँपालिका",
-    "name_en": "Tapli Rural Municipality"
+    "name_en": "Tapli",
+    "name": "ताप्ली",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5134",
-    "name": "त्रियुगा नगरपालिका",
-    "name_en": "Triyuga Municipality"
+    "name_en": "Triyuga",
+    "name": "त्रियुगा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5135",
-    "name": "रौतामाई गाउँपालिका",
-    "name_en": "Rautamai Rural Municipality"
+    "name_en": "Rautamai",
+    "name": "रौतामाई",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5137",
-    "name": "लिम्चुङबुङ गाउँपालिका",
-    "name_en": "Limchungbung Rural Municipality"
+    "name_en": "Limchungbung",
+    "name": "लिम्चुङबुङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5136",
-    "name": "वेलका नगरपालिका",
-    "name_en": "Belaka Municipality"
+    "name_en": "Belaka",
+    "name": "वेलका",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   }
 ]

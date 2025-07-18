@@ -1,52 +1,72 @@
 [
   {
     "id": "5043",
-    "name": "खाँदवारी नगरपालिका",
-    "name_en": "Khandbari Municipality"
+    "name_en": "Khandbari",
+    "name": "खाँदवारी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5044",
-    "name": "चिचिला गाउँपालिका",
-    "name_en": "Chichila Rural Municipality"
+    "name_en": "Chichila",
+    "name": "चिचिला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5045",
-    "name": "चैनपुर नगरपालिका",
-    "name_en": "Chainpur Municipality"
+    "name_en": "Chainpur",
+    "name": "चैनपुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5046",
-    "name": "धर्मदेवी नगरपालिका",
-    "name_en": "Dharmadevi Municipality"
+    "name_en": "Dharmadevi",
+    "name": "धर्मदेवी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5047",
-    "name": "पाँचखपन नगरपालिका",
-    "name_en": "Panchkhapan Municipality"
+    "name_en": "Panchkhapan",
+    "name": "पाँचखपन",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5048",
-    "name": "भोटखोला गाउँपालिका",
-    "name_en": "Bhotkhola Rural Municipality"
+    "name_en": "Bhotkhola",
+    "name": "भोटखोला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5049",
-    "name": "मकालु गाउँपालिका",
-    "name_en": "Makalu Rural Municipality"
+    "name_en": "Makalu",
+    "name": "मकालु",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5050",
-    "name": "मादी नगरपालिका",
-    "name_en": "Madi Municipality"
+    "name_en": "Madi",
+    "name": "मादी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5051",
-    "name": "सभापोखरी गाउँपालिका",
-    "name_en": "Sabhapokhari Rural Municipality"
+    "name_en": "Sabhapokhari",
+    "name": "सभापोखरी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5052",
-    "name": "सिलीचोङ गाउँपालिका",
-    "name_en": "Silichong Rural Municipality"
+    "name_en": "Silichong",
+    "name": "सिलीचोङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

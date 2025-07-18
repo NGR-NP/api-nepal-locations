@@ -1,47 +1,65 @@
 [
   {
     "id": "5001",
-    "name": "आठराई त्रिवेणी गाउँपालिका",
-    "name_en": "Aathrai Triveni Rural Municipality"
+    "name_en": "Aathrai Triveni",
+    "name": "आठराई त्रिवेणी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5007",
-    "name": "पाथीभरा याङवरक गाउँपालिका",
-    "name_en": "Pathibhara Yangwarak Rural Municipality"
+    "name_en": "Pathibhara Yangwarak",
+    "name": "पाथीभरा याङवरक",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5002",
-    "name": "फक्ताङलुङ गाउँपालिका",
-    "name_en": "Phaktanglung Rural Municipality"
+    "name_en": "Phaktanglung",
+    "name": "फक्ताङलुङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5003",
-    "name": "फुङलिङ नगरपालिका",
-    "name_en": "Phungling Municipality"
+    "name_en": "Phungling",
+    "name": "फुङलिङ",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5004",
-    "name": "मिक्वाखोला गाउँपालिका",
-    "name_en": "Mikwakhola Rural Municipality"
+    "name_en": "Mikwakhola",
+    "name": "मिक्वाखोला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5005",
-    "name": "मेरिङदेन गाउँपालिका",
-    "name_en": "Meringden Rural Municipality"
+    "name_en": "Meringden",
+    "name": "मेरिङदेन",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5006",
-    "name": "मैवाखोला गाउँपालिका",
-    "name_en": "Maiwakhola Rural Municipality"
+    "name_en": "Maiwakhola",
+    "name": "मैवाखोला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5008",
-    "name": "सिदिङ्वा गाउँपालिका",
-    "name_en": "Sidingwa Rural Municipality"
+    "name_en": "Sidingwa",
+    "name": "सिदिङ्वा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5009",
-    "name": "सिरीजङ्घा गाउँपालिका",
-    "name_en": "Sirijangha Rural Municipality"
+    "name_en": "Sirijangha",
+    "name": "सिरीजङ्घा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

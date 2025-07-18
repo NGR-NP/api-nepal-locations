@@ -1,52 +1,72 @@
 [
   {
     "id": "5412",
-    "name": "आँबुखैरेनी गाउँपालिका",
-    "name_en": "Anbukhaireni Rural Municipality"
+    "name_en": "Anbukhaireni",
+    "name": "आँबुखैरेनी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5413",
-    "name": "ऋषिङ्ग गाउँपालिका",
-    "name_en": "Rhising Rural Municipality"
+    "name_en": "Rhising",
+    "name": "ऋषिङ्ग",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5414",
-    "name": "घिरिङ गाउँपालिका",
-    "name_en": "Ghiring Rural Municipality"
+    "name_en": "Ghiring",
+    "name": "घिरिङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5415",
-    "name": "देवघाट गाउँपालिका",
-    "name_en": "Devghat Rural Municipality"
+    "name_en": "Devghat",
+    "name": "देवघाट",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5416",
-    "name": "बन्दिपुर गाउँपालिका",
-    "name_en": "Bandipur Rural Municipality"
+    "name_en": "Bandipur",
+    "name": "बन्दिपुर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5417",
-    "name": "भानु नगरपालिका",
-    "name_en": "Bhanu Municipality"
+    "name_en": "Bhanu",
+    "name": "भानु",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5418",
-    "name": "भिमाद नगरपालिका",
-    "name_en": "Bhimad Municipality"
+    "name_en": "Bhimad",
+    "name": "भिमाद",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5419",
-    "name": "म्याग्दे गाउँपालिका",
-    "name_en": "Myagde Rural Municipality"
+    "name_en": "Myagde",
+    "name": "म्याग्दे",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5420",
-    "name": "व्यास नगरपालिका",
-    "name_en": "Byas Municipality"
+    "name_en": "Byas",
+    "name": "व्यास",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5421",
-    "name": "शुक्लागण्डकी नगरपालिका",
-    "name_en": "Shuklagandaki Municipality"
+    "name_en": "Shuklagandaki",
+    "name": "शुक्लागण्डकी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   }
 ]

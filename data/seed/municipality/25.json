@@ -1,62 +1,86 @@
 [
   {
     "id": "5265",
-    "name": "ककनी गाउँपालिका",
-    "name_en": "Kakani Rural Municipality"
+    "name_en": "Kakani",
+    "name": "ककनी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5266",
-    "name": "किस्पाङ गाउँपालिका",
-    "name_en": "Kispang Rural Municipality"
+    "name_en": "Kispang",
+    "name": "किस्पाङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5267",
-    "name": "तादी गाउँपालिका",
-    "name_en": "Tadi Rural Municipality"
+    "name_en": "Tadi",
+    "name": "तादी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5268",
-    "name": "तारकेश्वर गाउँपालिका",
-    "name_en": "Tarakeshwor Rural Municipality"
+    "name_en": "Tarakeshwor",
+    "name": "तारकेश्वर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5269",
-    "name": "दुप्चेश्वर गाउँपालिका",
-    "name_en": "Dupcheshwar Rural Municipality"
+    "name_en": "Dupcheshwar",
+    "name": "दुप्चेश्वर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5270",
-    "name": "पञ्चकन्या गाउँपालिका",
-    "name_en": "Panchakanya Rural Municipality"
+    "name_en": "Panchakanya",
+    "name": "पञ्चकन्या",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5271",
-    "name": "बेलकोटगढी नगरपालिका",
-    "name_en": "Belkotgadhi Municipality"
+    "name_en": "Belkotgadhi",
+    "name": "बेलकोटगढी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5272",
-    "name": "म्यागङ गाउँपालिका",
-    "name_en": "Myagang Rural Municipality"
+    "name_en": "Myagang",
+    "name": "म्यागङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5273",
-    "name": "लिखु गाउँपालिका",
-    "name_en": "Likhu Rural Municipality"
+    "name_en": "Likhu",
+    "name": "लिखु",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5274",
-    "name": "विदुर नगरपालिका",
-    "name_en": "Bidur Municipality"
+    "name_en": "Bidur",
+    "name": "विदुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5275",
-    "name": "शिवपुरी गाउँपालिका",
-    "name_en": "Shivapuri Rural Municipality"
+    "name_en": "Shivapuri",
+    "name": "शिवपुरी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5276",
-    "name": "सुर्यगढी गाउँपालिका",
-    "name_en": "Suryagadhi Rural Municipality"
+    "name_en": "Suryagadhi",
+    "name": "सुर्यगढी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

@@ -1,87 +1,121 @@
 [
   {
     "id": "5075",
-    "name": "उर्लाबारी नगरपालिका",
-    "name_en": "Urlabari Municipality"
+    "name_en": "Urlabari",
+    "name": "उर्लाबारी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5076",
-    "name": "कटहरी गाउँपालिका",
-    "name_en": "Katahari Rural Municipality"
+    "name_en": "Katahari",
+    "name": "कटहरी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5077",
-    "name": "कानेपोखरी गाउँपालिका",
-    "name_en": "Kanepokhari Rural Municipality"
+    "name_en": "Kanepokhari",
+    "name": "कानेपोखरी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5078",
-    "name": "केराबारी गाउँपालिका",
-    "name_en": "Kerabari Rural Municipality"
+    "name_en": "Kerabari",
+    "name": "केराबारी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5079",
-    "name": "ग्रामथान गाउँपालिका",
-    "name_en": "Gramthan Rural Municipality"
+    "name_en": "Gramthan",
+    "name": "ग्रामथान",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5080",
-    "name": "जहदा गाउँपालिका",
-    "name_en": "Jahada Rural Municipality"
+    "name_en": "Jahada",
+    "name": "जहदा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5081",
-    "name": "धनपालथान गाउँपालिका",
-    "name_en": "Dhanpalthan Rural Municipality"
+    "name_en": "Dhanpalthan",
+    "name": "धनपालथान",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5082",
-    "name": "पथरी शनिश्चर��� नगरपालिका",
-    "name_en": "Pathari Shanishchare Municipality"
+    "name_en": "Pathari Shanishchare",
+    "name": "पथरी शनिश्चर���",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5083",
-    "name": "बुढीगंगा गाउँपालिका",
-    "name_en": "Budhiganga Rural Municipality"
+    "name_en": "Budhiganga",
+    "name": "बुढीगंगा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5084",
-    "name": "बेलवारी नगरपालिका",
-    "name_en": "Belbari Municipality"
+    "name_en": "Belbari",
+    "name": "बेलवारी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5085",
-    "name": "मिक्लाजुङ गाउँपालिका",
-    "name_en": "Miklajung Rural Municipality"
+    "name_en": "Miklajung",
+    "name": "मिक्लाजुङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5086",
-    "name": "रंगेली नगरपालिका",
-    "name_en": "Rangeli Municipality"
+    "name_en": "Rangeli",
+    "name": "रंगेली",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5087",
-    "name": "रतुवामाई नगरपालिका",
-    "name_en": "Ratuwamai Municipality"
+    "name_en": "Ratuwamai",
+    "name": "रतुवामाई",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5088",
-    "name": "लेटाङ नगरपालिका",
-    "name_en": "Letang Municipality"
+    "name_en": "Letang",
+    "name": "लेटाङ",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5089",
-    "name": "विराटनगर महानगरपालिका",
-    "name_en": "Biratnagar Metropolitan City"
+    "name_en": "Biratnagar",
+    "name": "विराटनगर",
+    "type_en": "Metropolitan City",
+    "type": "महानगरपालिका"
   },
   {
     "id": "5090",
-    "name": "सुनवर्षी नगरपालिका",
-    "name_en": "Sunawarshi Municipality"
+    "name_en": "Sunawarshi",
+    "name": "सुनवर्षी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5091",
-    "name": "सु��्दरहरैँचा नगरपालिका",
-    "name_en": "Sundarharaicha Municipality"
+    "name_en": "Sundarharaicha",
+    "name": "सु��्दरहरैँचा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   }
 ]

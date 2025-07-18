@@ -1,77 +1,107 @@
 [
   {
     "id": "5838",
-    "name": "एकडारा गाउँपालिका",
-    "name_en": "Ekdara Rural Municipality"
+    "name_en": "Ekdara",
+    "name": "एकडारा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5839",
-    "name": "औरही नगरपालिका",
-    "name_en": "Aurahi Municipality"
+    "name_en": "Aurahi",
+    "name": "औरही",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5217",
-    "name": "गौशाला नगरपालिका",
-    "name_en": "Gaushala Municipality"
+    "name_en": "Gaushala",
+    "name": "गौशाला",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5218",
-    "name": "जलेश्वर नगरपालिका",
-    "name_en": "Jaleshwar Municipality"
+    "name_en": "Jaleshwar",
+    "name": "जलेश्वर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5219",
-    "name": "पिपरा गाउँपालिका",
-    "name_en": "Pipara Rural Municipality"
+    "name_en": "Pipara",
+    "name": "पिपरा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5840",
-    "name": "बर्दिबास नगरपालिका",
-    "name_en": "Bardibas Municipality"
+    "name_en": "Bardibas",
+    "name": "बर्दिबास",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5841",
-    "name": "बलवा नगरपालिका",
-    "name_en": "Balawa Municipality"
+    "name_en": "Balawa",
+    "name": "बलवा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5842",
-    "name": "भँगाहा नगरपालिका",
-    "name_en": "Bhangaha Municipality"
+    "name_en": "Bhangaha",
+    "name": "भँगाहा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5843",
-    "name": "मटिहानी नगरपालिका",
-    "name_en": "Matihani Municipality"
+    "name_en": "Matihani",
+    "name": "मटिहानी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5844",
-    "name": "मनरा शिसवा नगरपालिका",
-    "name_en": "Manara Shiswa Municipality"
+    "name_en": "Manara Shiswa",
+    "name": "मनरा शिसवा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5225",
-    "name": "महोत्तरी गाउँपालिका",
-    "name_en": "Mahottari Rural Municipality"
+    "name_en": "Mahottari",
+    "name": "महोत्तरी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5845",
-    "name": "रामगोपालपुर नगरपालिका",
-    "name_en": "Ramgopalpur Municipality"
+    "name_en": "Ramgopalpur",
+    "name": "रामगोपालपुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5846",
-    "name": "लोहरपट्टी नगरपालिका",
-    "name_en": "Loharpatti Municipality"
+    "name_en": "Loharpatti",
+    "name": "लोहरपट्टी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5228",
-    "name": "साम्सी गाउँपालिका",
-    "name_en": "Samsi Rural Municipality"
+    "name_en": "Samsi",
+    "name": "साम्सी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5229",
-    "name": "सोनमा गाउँपालिका",
-    "name_en": "Sonama Rural Municipality"
+    "name_en": "Sonama",
+    "name": "सोनमा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

@@ -1,52 +1,72 @@
 [
   {
     "id": "5323",
-    "name": "इन्द्रसरोवर गाउँपालिका",
-    "name_en": "Indrasarowar Rural Municipality"
+    "name_en": "Indrasarowar",
+    "name": "इन्द्रसरोवर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5324",
-    "name": "कैलाश गाउँपालिका",
-    "name_en": "Kailash Rural Municipality"
+    "name_en": "Kailash",
+    "name": "कैलाश",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5325",
-    "name": "थाहा नगरपालिका",
-    "name_en": "Thaha Municipality"
+    "name_en": "Thaha",
+    "name": "थाहा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5326",
-    "name": "बकैया गाउँपालिका",
-    "name_en": "Bakaiya Rural Municipality"
+    "name_en": "Bakaiya",
+    "name": "बकैया",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5327",
-    "name": "बाग्मती गाउँपालिका",
-    "name_en": "Bagmati Rural Municipality"
+    "name_en": "Bagmati",
+    "name": "बाग्मती",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5328",
-    "name": "भीमफेदी गाउँपालिका",
-    "name_en": "Bhimfedi Rural Municipality"
+    "name_en": "Bhimfedi",
+    "name": "भीमफेदी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5329",
-    "name": "मकवानपुरगढी गाउँपालिका",
-    "name_en": "Makawanpurgadhi Rural Municipality"
+    "name_en": "Makawanpurgadhi",
+    "name": "मकवानपुरगढी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5330",
-    "name": "मनहरी गाउँपालिका",
-    "name_en": "Manahari Rural Municipality"
+    "name_en": "Manahari",
+    "name": "मनहरी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5331",
-    "name": "राक्सिराङ्ग गाउँपालिका",
-    "name_en": "Raksirang Rural Municipality"
+    "name_en": "Raksirang",
+    "name": "राक्सिराङ्ग",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5332",
-    "name": "हेटौडा उपमहानगरपालिका",
-    "name_en": "Hetauda Sub-Metropolitan City"
+    "name_en": "Hetauda",
+    "name": "हेटौडा",
+    "type_en": "Sub-Metropolitan City",
+    "type": "उपमहानगरपालिका"
   }
 ]

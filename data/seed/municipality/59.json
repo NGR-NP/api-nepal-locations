@@ -1,42 +1,58 @@
 [
   {
     "id": "5590",
-    "name": "कनकासुन्दरी गाउँपालिका",
-    "name_en": "Kankasundari Rural Municipality"
+    "name_en": "Kankasundari",
+    "name": "कनकासुन्दरी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5591",
-    "name": "गुठिचौर गाउँपालिका",
-    "name_en": "Guthichaur Rural Municipality"
+    "name_en": "Guthichaur",
+    "name": "गुठिचौर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5592",
-    "name": "चन्दननाथ नगरपालिका",
-    "name_en": "Chandannath Municipality"
+    "name_en": "Chandannath",
+    "name": "चन्दननाथ",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5593",
-    "name": "तातोपानी गाउँपालिका",
-    "name_en": "Tatopani Rural Municipality"
+    "name_en": "Tatopani",
+    "name": "तातोपानी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5594",
-    "name": "तिला गाउँपालिका",
-    "name_en": "Tila Rural Municipality"
+    "name_en": "Tila",
+    "name": "तिला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5595",
-    "name": "पातारासी गाउँपालिका",
-    "name_en": "Patarasi Rural Municipality"
+    "name_en": "Patarasi",
+    "name": "पातारासी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5596",
-    "name": "सिंजा गाउँपालिका",
-    "name_en": "Sinja Rural Municipality"
+    "name_en": "Sinja",
+    "name": "सिंजा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5597",
-    "name": "हिमा गाउँपालिका",
-    "name_en": "Hima Rural Municipality"
+    "name_en": "Hima",
+    "name": "हिमा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

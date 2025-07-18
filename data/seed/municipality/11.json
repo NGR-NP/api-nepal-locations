@@ -1,42 +1,58 @@
 [
   {
     "id": "5104",
-    "name": "खुम्बु पासाङल्हामु गाउँपालिका",
-    "name_en": "Khumbu Pasang Lhamu Rural Municipality"
+    "name_en": "Khumbu Pasang Lhamu",
+    "name": "खुम्बु पासाङल्हामु",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5106",
-    "name": "थुलुङ दुधकोशी गाउँपालिका",
-    "name_en": "Thulung Dudhkoshi Rural Municipality"
+    "name_en": "Thulung Dudhkoshi",
+    "name": "थुलुङ दुधकोशी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5107",
-    "name": "नेचासल्यान गाउँपालिका",
-    "name_en": "Nechasalyan Rural Municipality"
+    "name_en": "Nechasalyan",
+    "name": "नेचासल्यान",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5108",
-    "name": "महाकुलुङ गाउँपालिका",
-    "name_en": "Mahakulung Rural Municipality"
+    "name_en": "Mahakulung",
+    "name": "महाकुलुङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5105",
-    "name": "माप्य दुधकोशी गाउँपालिका",
-    "name_en": "Mapya Dudhkoshi Rural Municipality"
+    "name_en": "Mapya Dudhkoshi",
+    "name": "माप्य दुधकोशी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5109",
-    "name": "लिखु पिके गाउँपालिका",
-    "name_en": "Likhu Pike Rural Municipality"
+    "name_en": "Likhu Pike",
+    "name": "लिखु पिके",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5110",
-    "name": "सोताङ गाउँपालिका",
-    "name_en": "Sotang Rural Municipality"
+    "name_en": "Sotang",
+    "name": "सोताङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5111",
-    "name": "सोलुदुधकुण्ड नगरपालिका",
-    "name_en": "Solududhkunda Municipality"
+    "name_en": "Solududhkunda",
+    "name": "सोलुदुधकुण्ड",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   }
 ]

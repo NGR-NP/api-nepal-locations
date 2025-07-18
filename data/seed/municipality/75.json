@@ -1,47 +1,65 @@
 [
   {
     "id": "5736",
-    "name": "कृष्णपुर नगरपालिका",
-    "name_en": "Krishnapur Municipality"
+    "name_en": "Krishnapur",
+    "name": "कृष्णपुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5741",
-    "name": "दोधारा चाँदनी नगरपालिका",
-    "name_en": "Dodhara Chandani Municipality"
+    "name_en": "Dodhara Chandani",
+    "name": "दोधारा चाँदनी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5737",
-    "name": "पुनर्वास नगरपालिका",
-    "name_en": "Punarbas Municipality"
+    "name_en": "Punarbas",
+    "name": "पुनर्वास",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5743",
-    "name": "बेदकोट नगरपालिका",
-    "name_en": "Bedkot Municipality"
+    "name_en": "Bedkot",
+    "name": "बेदकोट",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5738",
-    "name": "बेलडाँडी गाउँपालिका",
-    "name_en": "Beldandi Rural Municipality"
+    "name_en": "Beldandi",
+    "name": "बेलडाँडी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5739",
-    "name": "बेलौरी नगरपालिका",
-    "name_en": "Belauri Municipality"
+    "name_en": "Belauri",
+    "name": "बेलौरी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5740",
-    "name": "भीमदत्त नगरपालिका",
-    "name_en": "Bhimdatta Municipality"
+    "name_en": "Bhimdatta",
+    "name": "भीमदत्त",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5742",
-    "name": "लालझाडी गाउँपालिका",
-    "name_en": "Laljhadi Rural Municipality"
+    "name_en": "Laljhadi",
+    "name": "लालझाडी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5744",
-    "name": "शुक्लाफाँटा नगरपालिका",
-    "name_en": "Shuklaphanta Municipality"
+    "name_en": "Shuklaphanta",
+    "name": "शुक्लाफाँटा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   }
 ]

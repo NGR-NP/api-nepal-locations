@@ -1,82 +1,114 @@
 [
   {
     "id": "5476",
-    "name": "ओमसतिया गाउँपालिका",
-    "name_en": "Omsatiya Rural Municipality"
+    "name_en": "Omsatiya",
+    "name": "ओमसतिया",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5477",
-    "name": "कञ्चन गाउँपालिका",
-    "name_en": "Kanchan Rural Municipality"
+    "name_en": "Kanchan",
+    "name": "कञ्चन",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5478",
-    "name": "कोटहीमाई गाउँपालिका",
-    "name_en": "Kotahimai Rural Municipality"
+    "name_en": "Kotahimai",
+    "name": "कोटहीमाई",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5479",
-    "name": "गैडहवा गाउँपालिका",
-    "name_en": "Gaidahawa Rural Municipality"
+    "name_en": "Gaidahawa",
+    "name": "गैडहवा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5480",
-    "name": "तिलोत्तमा नगरपालिका",
-    "name_en": "Tilottama Municipality"
+    "name_en": "Tilottama",
+    "name": "तिलोत्तमा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5481",
-    "name": "देवदह नगरपालिका",
-    "name_en": "Devdaha Municipality"
+    "name_en": "Devdaha",
+    "name": "देवदह",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5482",
-    "name": "बुटवल उपमहानगरपालिका",
-    "name_en": "Butwal Sub-Metropolitan City"
+    "name_en": "Butwal",
+    "name": "बुटवल",
+    "type_en": "Sub-Metropolitan City",
+    "type": "उपमहानगरपालिका"
   },
   {
     "id": "5483",
-    "name": "मर्चवारी गाउँपालिका",
-    "name_en": "Marchawari Rural Municipality"
+    "name_en": "Marchawari",
+    "name": "मर्चवारी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5484",
-    "name": "मायादेवी गाउँपालिका",
-    "name_en": "Mayadevi Rural Municipality"
+    "name_en": "Mayadevi",
+    "name": "मायादेवी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5485",
-    "name": "रोहिणी गाउँपालिका",
-    "name_en": "Rohini Rural Municipality"
+    "name_en": "Rohini",
+    "name": "रोहिणी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5486",
-    "name": "लुम्बिनी साँस्कृतिक नगरपालिका",
-    "name_en": "Lumbini Sanskritik Municipality"
+    "name_en": "Lumbini Sanskritik",
+    "name": "लुम्बिनी साँस्कृतिक",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5487",
-    "name": "शुद्धोधन गाउँपालिका",
-    "name_en": "Suddhodhan Rural Municipality"
+    "name_en": "Suddhodhan",
+    "name": "शुद्धोधन",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5488",
-    "name": "सम्मरीमाई गाउँपालिका",
-    "name_en": "Sammarimai Rural Municipality"
+    "name_en": "Sammarimai",
+    "name": "सम्मरीमाई",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5489",
-    "name": "सिद्धार्थनगर नगरपालिका",
-    "name_en": "Siddharthanagar Municipality"
+    "name_en": "Siddharthanagar",
+    "name": "सिद्धार्थनगर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5490",
-    "name": "सियारी गाउँपालिका",
-    "name_en": "Siyari Rural Municipality"
+    "name_en": "Siyari",
+    "name": "सियारी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5491",
-    "name": "सैनामैना नगरपालिका",
-    "name_en": "Sainamaina Municipality"
+    "name_en": "Sainamaina",
+    "name": "सैनामैना",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   }
 ]

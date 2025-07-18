@@ -1,52 +1,72 @@
 [
   {
     "id": "5513",
-    "name": "काठेखोला गाउँपालिका",
-    "name_en": "Kathekhola Rural Municipality"
+    "name_en": "Kathekhola",
+    "name": "काठेखोला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5514",
-    "name": "गल्कोट नगरपालिका",
-    "name_en": "Galkot Municipality"
+    "name_en": "Galkot",
+    "name": "गल्कोट",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5515",
-    "name": "जैमिनी नगरपालिका",
-    "name_en": "Jaimini Municipality"
+    "name_en": "Jaimini",
+    "name": "जैमिनी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5516",
-    "name": "ढोरपाटन नगरपालिका",
-    "name_en": "Dhorpatan Municipality"
+    "name_en": "Dhorpatan",
+    "name": "ढोरपाटन",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5517",
-    "name": "तमानखोला गाउँपालिका",
-    "name_en": "Tamankhola Rural Municipality"
+    "name_en": "Tamankhola",
+    "name": "तमानखोला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5518",
-    "name": "ताराखोला गाउँपालिका",
-    "name_en": "Tarakhola Rural Municipality"
+    "name_en": "Tarakhola",
+    "name": "ताराखोला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5519",
-    "name": "निसीखोला गाउँपालिका",
-    "name_en": "Nisikhola Rural Municipality"
+    "name_en": "Nisikhola",
+    "name": "निसीखोला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5520",
-    "name": "बागलुङ नगरपालिका",
-    "name_en": "Baglung Municipality"
+    "name_en": "Baglung",
+    "name": "बागलुङ",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5521",
-    "name": "वडिगाड गाउँपालिका",
-    "name_en": "Badigad Rural Municipality"
+    "name_en": "Badigad",
+    "name": "वडिगाड",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5522",
-    "name": "वरेङ गाउँपालिका",
-    "name_en": "Bareng Rural Municipality"
+    "name_en": "Bareng",
+    "name": "वरेङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]

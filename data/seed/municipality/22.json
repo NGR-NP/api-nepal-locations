@@ -1,102 +1,142 @@
 [
   {
     "id": "5230",
-    "name": "ईश्वरपुर नगरपालिका",
-    "name_en": "Ishwarpur Municipality"
+    "name_en": "Ishwarpur",
+    "name": "ईश्वरपुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5847",
-    "name": "कविलासी नगरपालिका",
-    "name_en": "Kabilasi Municipality"
+    "name_en": "Kabilasi",
+    "name": "कविलासी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5848",
-    "name": "कौडेना गाउँपालिका",
-    "name_en": "Kaudena Rural Municipality"
+    "name_en": "Kaudena",
+    "name": "कौडेना",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5849",
-    "name": "गोडैटा नगरपालिका",
-    "name_en": "Godaita Municipality"
+    "name_en": "Godaita",
+    "name": "गोडैटा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5850",
-    "name": "चक्रघट्टा गाउँपालिका",
-    "name_en": "Chakraghatta Rural Municipality"
+    "name_en": "Chakraghatta",
+    "name": "चक्रघट्टा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5234",
-    "name": "चन्द्रनगर गाउँपालिका",
-    "name_en": "Chandranagar Rural Municipality"
+    "name_en": "Chandranagar",
+    "name": "चन्द्रनगर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5851",
-    "name": "धनकौल गाउँपालिका",
-    "name_en": "Dhankaul Rural Municipality"
+    "name_en": "Dhankaul",
+    "name": "धनकौल",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5852",
-    "name": "पर्सा गाउँपालिका",
-    "name_en": "Parsa Rural Municipality"
+    "name_en": "Parsa",
+    "name": "पर्सा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5236",
-    "name": "बरहथवा नगरपालिका",
-    "name_en": "Barahathwa Municipality"
+    "name_en": "Barahathwa",
+    "name": "बरहथवा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5853",
-    "name": "बलरा नगरपालिका",
-    "name_en": "Balara Municipality"
+    "name_en": "Balara",
+    "name": "बलरा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5854",
-    "name": "बसबरीया गाउँपालिका",
-    "name_en": "Basabariya Rural Municipality"
+    "name_en": "Basabariya",
+    "name": "बसबरीया",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5238",
-    "name": "बागमती नगरपालिका",
-    "name_en": "Bagmati Municipality"
+    "name_en": "Bagmati",
+    "name": "बागमती",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5855",
-    "name": "ब्रह्मपुरी गाउँपालिका",
-    "name_en": "Brahmapuri Rural Municipality"
+    "name_en": "Brahmapuri",
+    "name": "ब्रह्मपुरी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5240",
-    "name": "मलंगवा नगरपालिका",
-    "name_en": "Malangwa Municipality"
+    "name_en": "Malangwa",
+    "name": "मलंगवा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5856",
-    "name": "रामनगर गाउँपालिका",
-    "name_en": "Ramnagar Rural Municipality"
+    "name_en": "Ramnagar",
+    "name": "रामनगर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5242",
-    "name": "लालबन्दी नगरपालिका",
-    "name_en": "Lalbandi Municipality"
+    "name_en": "Lalbandi",
+    "name": "लालबन्दी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5857",
-    "name": "विष्णु गाउँपालिका",
-    "name_en": "Bishnu Rural Municipality"
+    "name_en": "Bishnu",
+    "name": "विष्णु",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5858",
-    "name": "हरिपुर नगरपालिका",
-    "name_en": "Haripur Municipality"
+    "name_en": "Haripur",
+    "name": "हरिपुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5859",
-    "name": "हरिपुर्वा नगरपालिका",
-    "name_en": "Haripurwa Municipality"
+    "name_en": "Haripurwa",
+    "name": "हरिपुर्वा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5246",
-    "name": "हरिवन नगरपालिका",
-    "name_en": "Hariwan Municipality"
+    "name_en": "Hariwan",
+    "name": "हरिवन",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   }
 ]

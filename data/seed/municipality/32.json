@@ -1,92 +1,128 @@
 [
   {
     "id": "5860",
-    "name": "ईशनाथ नगरपालिका",
-    "name_en": "Ishnath Municipality"
+    "name_en": "Ishnath",
+    "name": "ईशनाथ",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5861",
-    "name": "कटहरिया नगरपालिका",
-    "name_en": "Katahariya Municipality"
+    "name_en": "Katahariya",
+    "name": "कटहरिया",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5862",
-    "name": "गढीमाई नगरपालिका",
-    "name_en": "Gadhimai Municipality"
+    "name_en": "Gadhimai",
+    "name": "गढीमाई",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5336",
-    "name": "गरुडा नगरपालिका",
-    "name_en": "Garuda Municipality"
+    "name_en": "Garuda",
+    "name": "गरुडा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5863",
-    "name": "गुजरा नगरपालिका",
-    "name_en": "Gujara Municipality"
+    "name_en": "Gujara",
+    "name": "गुजरा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5864",
-    "name": "गौर नगरपालिका",
-    "name_en": "Gaur Municipality"
+    "name_en": "Gaur",
+    "name": "गौर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5339",
-    "name": "चन्द्रपुर नगरपालिका",
-    "name_en": "Chandrapur Municipality"
+    "name_en": "Chandrapur",
+    "name": "चन्द्रपुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5865",
-    "name": "दुर्गा भगवती गाउँपालिका",
-    "name_en": "Durga Bhagwati Rural Municipality"
+    "name_en": "Durga Bhagwati",
+    "name": "दुर्गा भगवती",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5866",
-    "name": "देवाही गोनाही नगरपालिका",
-    "name_en": "Dewahi Gonahi Municipality"
+    "name_en": "Dewahi Gonahi",
+    "name": "देवाही गोनाही",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5867",
-    "name": "परोहा नगरपालिका",
-    "name_en": "Paroha Municipality"
+    "name_en": "Paroha",
+    "name": "परोहा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5868",
-    "name": "फतुवा बिजयपुर नगरपालिका",
-    "name_en": "Fatuwa Bijayapur Municipality"
+    "name_en": "Fatuwa Bijayapur",
+    "name": "फतुवा बिजयपुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5869",
-    "name": "बौधीमाई नगरपालिका",
-    "name_en": "Baudhimai Municipality"
+    "name_en": "Baudhimai",
+    "name": "बौधीमाई",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5870",
-    "name": "माधव नारायण नगरपालिका",
-    "name_en": "Madhav Narayan Municipality"
+    "name_en": "Madhav Narayan",
+    "name": "माधव नारायण",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5871",
-    "name": "मौलापुर नगरपालिका",
-    "name_en": "Maulapur Municipality"
+    "name_en": "Maulapur",
+    "name": "मौलापुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5872",
-    "name": "यमुनामाई गाउँपालिका",
-    "name_en": "Yamunamai Rural Municipality"
+    "name_en": "Yamunamai",
+    "name": "यमुनामाई",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5873",
-    "name": "राजदेवी नगरपालिका",
-    "name_en": "Rajdevi Municipality"
+    "name_en": "Rajdevi",
+    "name": "राजदेवी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5874",
-    "name": "राजपुर नगरपालिका",
-    "name_en": "Rajpur Municipality"
+    "name_en": "Rajpur",
+    "name": "राजपुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5875",
-    "name": "वृन्दावन नगरपालिका",
-    "name_en": "Brindaban Municipality"
+    "name_en": "Brindaban",
+    "name": "वृन्दावन",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   }
 ]

@@ -1,42 +1,58 @@
 [
   {
     "id": "5649",
-    "name": "गुलरिया नगरपालिका",
-    "name_en": "Gulariya Municipality"
+    "name_en": "Gulariya",
+    "name": "गुलरिया",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5650",
-    "name": "गेरुवा गाउँपालिका",
-    "name_en": "Geruwa Rural Municipality"
+    "name_en": "Geruwa",
+    "name": "गेरुवा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5651",
-    "name": "ठाकुरबाबा नगरपालिका",
-    "name_en": "Thakurbaba Municipality"
+    "name_en": "Thakurbaba",
+    "name": "ठाकुरबाबा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5652",
-    "name": "बढैयाताल गाउँपालिका",
-    "name_en": "Badhaiyatal Rural Municipality"
+    "name_en": "Badhaiyatal",
+    "name": "बढैयाताल",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5654",
-    "name": "बाँसगढी नगरपालिका",
-    "name_en": "Bansgadhi Municipality"
+    "name_en": "Bansgadhi",
+    "name": "बाँसगढी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5653",
-    "name": "बारबर्दिया नगरपालिका",
-    "name_en": "Barbardiya Municipality"
+    "name_en": "Barbardiya",
+    "name": "बारबर्दिया",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5655",
-    "name": "मधुवन नगरपालिका",
-    "name_en": "Madhuwan Municipality"
+    "name_en": "Madhuwan",
+    "name": "मधुवन",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5656",
-    "name": "राजापुर नगरपालिका",
-    "name_en": "Rajapur Municipality"
+    "name_en": "Rajapur",
+    "name": "राजापुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   }
 ]

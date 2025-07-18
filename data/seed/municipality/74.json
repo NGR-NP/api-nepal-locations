@@ -1,37 +1,51 @@
 [
   {
     "id": "5729",
-    "name": "अजयमेरु गाउँपालिका",
-    "name_en": "Ajaymeru Rural Municipality"
+    "name_en": "Ajaymeru",
+    "name": "अजयमेरु",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5730",
-    "name": "अमरगढी नगरपालिका",
-    "name_en": "Amaragadhi Municipality"
+    "name_en": "Amaragadhi",
+    "name": "अमरगढी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5731",
-    "name": "आलिताल गाउँपालिका",
-    "name_en": "Aalital Rural Municipality"
+    "name_en": "Aalital",
+    "name": "आलिताल",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5732",
-    "name": "गन्यापधुरा गाउँपालिका",
-    "name_en": "Ganyapadhura Rural Municipality"
+    "name_en": "Ganyapadhura",
+    "name": "गन्यापधुरा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5733",
-    "name": "नवदुर्गा गाउँपालिका",
-    "name_en": "Nawadurga Rural Municipality"
+    "name_en": "Nawadurga",
+    "name": "नवदुर्गा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   },
   {
     "id": "5734",
-    "name": "परशुराम नगरपालिका",
-    "name_en": "Parshuram Municipality"
+    "name_en": "Parshuram",
+    "name": "परशुराम",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
   },
   {
     "id": "5735",
-    "name": "भागेश्वर गाउँपालिका",
-    "name_en": "Bageshwar Rural Municipality"
+    "name_en": "Bageshwar",
+    "name": "भागेश्वर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
   }
 ]
