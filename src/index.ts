@@ -1,4 +1,5 @@
 import { Hono } from "hono";
+import { cors } from "hono/cors";
 import type { Context } from "hono";
 
 // Minimal D1Database type for this file
@@ -60,6 +61,17 @@ type Municipality = { id: number; name: string };
 type Ward = { id: number; name: string };
 
 const app = new Hono<{ Bindings: Env }>();
+
+// Enable CORS for all origins and all routes
+app.use(
+  "*",
+  cors({
+    origin: "*",
+    allowMethods: ["GET"],
+    allowHeaders: ["Content-Type"],
+    maxAge: 86400,
+  })
+);
 
 // Health check route
 app.get("/", (c) => c.json({ message: "Nepal Location API is running!" }));

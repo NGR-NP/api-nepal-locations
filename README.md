@@ -132,23 +132,20 @@ GET /ward/{id}
 
 - **province.json**
   ```json
-  [
-    { "value": "1", "label_np": "कोशी", "label_en": "Koshi" },
-    ...
-  ]
+  [{ "value": "1", "label_np": "कोशी", "label_en": "Koshi" }]
   ```
 - **district/1.json**
   ```json
-  [
-    { "id": "3", "name": "इलाम", "name_en": "Ilam" },
-    ...
-  ]
+  [{ "id": "3", "name": "इलाम", "name_en": "Ilam" }]
   ```
 - **municipality/1.json**
   ```json
   [
-    { "id": "5001", "name": "आठराई त्रिवेणी गाउँपालिका", "name_en": "Aathrai Triveni Rural Municipality" },
-    ...
+    {
+      "id": "5001",
+      "name": "आठराई त्रिवेणी गाउँपालिका",
+      "name_en": "Aathrai Triveni Rural Municipality"
+    }
   ]
   ```
 - **ward/5001.json**
