@@ -1,0 +1,19 @@
+name = "nepal-location-api"
+main = "src/index.ts"
+compatibility_date = "2025-07-18"
+account_id = "account_id"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "nepal-locations"
+database_id = "my-d1-key"  #<--- replace with your D1 database ID
+[[kv_namespaces]]
+binding = "RATE_LIMIT_KV"
+id = "my-kv-namespace"  #<--- replace with your KV namespace ID
+
+[observability.logs]
+enabled = true
+
+[site]
+bucket = "./data"
+exclude = ["seed"]

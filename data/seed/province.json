@@ -1,0 +1,37 @@
+[
+  {
+    "value": "1",
+    "label_np": "कोशी",
+    "label_en": "Koshi"
+  },
+  {
+    "value": "2",
+    "label_np": "मधेश",
+    "label_en": "Madhesh"
+  },
+  {
+    "value": "3",
+    "label_np": "बागमती",
+    "label_en": "Bagmati"
+  },
+  {
+    "value": "4",
+    "label_np": "गण्डकी",
+    "label_en": "Gandaki"
+  },
+  {
+    "value": "5",
+    "label_np": "लुम्बिनी",
+    "label_en": "Lumbini"
+  },
+  {
+    "value": "6",
+    "label_np": "कर्णाली",
+    "label_en": "Karnali"
+  },
+  {
+    "value": "7",
+    "label_np": "सुदूरपश्चिम",
+    "label_en": "Sudurpashchim"
+  }
+]
