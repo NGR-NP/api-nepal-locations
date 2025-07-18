@@ -26,7 +26,6 @@ interface KVNamespace {
 // Language type
 type Lang = "en" | "np";
 type columnName = "name_en" | "name_np";
-type columnNameSearch = "name_en_search" | "name_np_search";
 const nameLang = {
   en: "en",
   np: "np",
@@ -49,11 +48,6 @@ const nameColumn = {
 } as Record<Lang, columnName>;
 const arrNameColumn = Object.values(nameColumn);
 
-const searchNameColumn = {
-  en: "name_en_search",
-  np: "name_np_search",
-} as Record<Lang, columnNameSearch>;
-const arrSearchNameColumn = Object.values(searchNameColumn);
 // Resource types
 type Province = { id: number; name: string };
 type District = { id: number; name: string };
@@ -151,11 +145,10 @@ langApp.get("/provinces", async (c) => {
   try {
     const db = c.env.DB;
     const nameColumn = c.get("name") as columnName;
-    const lang = c.get("lang");
     const search = c.req.query("s");
-    if (search && search.length > 30) {
+    if (search && search.length > 15) {
       return c.json(
-        { error: "Search string too long (max 30 characters)" },
+        { error: "Search string too long (max 15 characters)" },
         400
       );
     }
@@ -166,9 +159,7 @@ langApp.get("/provinces", async (c) => {
     let sql = `SELECT id, ${nameColumn} as name FROM provinces`;
     let params: any[] = [];
     if (search) {
-      const searchColumn =
-        lang === nameLang.en ? searchNameColumn.en : searchNameColumn.np;
-      sql += ` WHERE ${searchColumn} LIKE ?`;
+      sql += ` WHERE ${nameColumn} LIKE ?`;
       params.push(`%${search.toLowerCase()}%`);
     }
     sql += " LIMIT ? OFFSET ?";
@@ -192,11 +183,10 @@ langApp.get("/districts", async (c) => {
   try {
     const db = c.env.DB;
     const nameColumn = c.get("name") as columnName;
-    const lang = c.get("lang");
     const search = c.req.query("s");
-    if (search && search.length > 30) {
+    if (search && search.length > 15) {
       return c.json(
-        { error: "Search string too long (max 30 characters)" },
+        { error: "Search string too long (max 15 characters)" },
         400
       );
     }
@@ -216,9 +206,7 @@ langApp.get("/districts", async (c) => {
       params.push(provinceId);
     }
     if (search) {
-      const searchColumn =
-        lang === nameLang.en ? searchNameColumn.en : searchNameColumn.np;
-      where.push(`${searchColumn} LIKE ?`);
+      where.push(`${nameColumn} LIKE ?`);
       params.push(`%${search.toLowerCase()}%`);
     }
     if (where.length > 0) {
@@ -246,9 +234,9 @@ langApp.get("/municipalities", async (c) => {
     const nameColumn = c.get("name") as columnName;
     const lang = c.get("lang");
     const search = c.req.query("s");
-    if (search && search.length > 30) {
+    if (search && search.length > 15) {
       return c.json(
-        { error: "Search string too long (max 30 characters)" },
+        { error: "Search string too long (max 15 characters)" },
         400
       );
     }
@@ -260,7 +248,8 @@ langApp.get("/municipalities", async (c) => {
     const { limit, offset } = search
       ? parseLimitOffset(c, 20)
       : parseLimitOffset(c);
-    let sql = `SELECT id, ${nameColumn} as name FROM municipalities`;
+    const typeColumn = "type_" + lang;
+    let sql = `SELECT id, ${nameColumn} as name, ${typeColumn} as type FROM municipalities`;
     let params: any[] = [];
     let where: string[] = [];
     if (districtId !== undefined) {
@@ -268,9 +257,7 @@ langApp.get("/municipalities", async (c) => {
       params.push(districtId);
     }
     if (search) {
-      const searchColumn =
-        lang === nameLang.en ? searchNameColumn.en : searchNameColumn.np;
-      where.push(`${searchColumn} LIKE ?`);
+      where.push(`${nameColumn} LIKE ?`);
       params.push(`%${search.toLowerCase()}%`);
     }
     if (where.length > 0) {

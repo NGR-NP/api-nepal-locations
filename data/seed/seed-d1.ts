@@ -27,11 +27,11 @@ async function seedProvinces() {
   const provinceFile = await readFile(join(dataPath, "province.json"), "utf-8");
   const provinces = JSON.parse(provinceFile);
   for (const p of provinces) {
-    const sql = `INSERT INTO provinces (id, name_en, name_np, name_en_search, name_np_search) VALUES (${
+    const sql = `INSERT INTO provinces (id, name_en, name_np) VALUES (${
       p.value
-    }, '${escapeSql(p.label_en)}', '${escapeSql(p.label_np)}', '${normalize(
-      escapeSql(p.label_en)
-    )}', '${normalize(escapeSql(p.label_np))}');`;
+    }, '${normalize(escapeSql(p.label_en))}', '${normalize(
+      escapeSql(p.label_np)
+    )}');`;
     await executeSql(sql);
   }
   console.log("Provinces seeded.");
@@ -46,11 +46,9 @@ async function seedDistricts() {
     const districtFile = await readFile(join(districtPath, file), "utf-8");
     const districts = JSON.parse(districtFile);
     for (const d of districts) {
-      const sql = `INSERT INTO districts (id, province_id, name_en, name_np, name_en_search, name_np_search) VALUES (${
+      const sql = `INSERT INTO districts (id, province_id, name_en, name_np) VALUES (${
         d.id
-      }, ${provinceId}, '${escapeSql(d.name_en)}', '${escapeSql(
-        d.name
-      )}', '${normalize(escapeSql(d.name_en))}', '${normalize(
+      }, ${provinceId}, '${normalize(escapeSql(d.name_en))}', '${normalize(
         escapeSql(d.name)
       )}');`;
       await executeSql(sql);
@@ -71,12 +69,12 @@ async function seedMunicipalities() {
     );
     const municipalities = JSON.parse(municipalityFile);
     for (const m of municipalities) {
-      const sql = `INSERT INTO municipalities (id, district_id, name_en, name_np, name_en_search, name_np_search) VALUES (${
+      const sql = `INSERT INTO municipalities (id, district_id, name_en, name_np, type_en, type_np) VALUES (${
         m.id
-      }, ${districtId}, '${escapeSql(m.name_en)}', '${escapeSql(
-        m.name
-      )}', '${normalize(escapeSql(m.name_en))}', '${normalize(
+      }, ${districtId}, '${normalize(escapeSql(m.name_en))}', '${normalize(
         escapeSql(m.name)
+      )}', '${normalize(escapeSql(m.type_en))}','${normalize(
+        escapeSql(m.type)
       )}');`;
       await executeSql(sql);
     }
