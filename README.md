@@ -56,7 +56,7 @@ GET /{lang}/provinces
 
 - `lang`: `en` or `np`
 - **Query params**:
-  - `s`: search by name (max 30 chars)
+  - `s`: search by name (max 15 chars)
   - `limit`, `offset`: pagination (default 20, max 50; for search, max 20, default 10)
 - **Example:**  
   `/en/provinces?s=koshi`
@@ -108,99 +108,6 @@ GET /ward/{id}
   ```json
   [{ "id": 5001, "name": [1, 2, 3, 4, 5] }]
   ```
-
----
-
-## Data & Seeding Workflow
-
-### 1. **Schema Migration**
-
-- Before seeding, ensure your D1 database schema is up to date:
-  ```sh
-  wrangler d1 execute <db-name> --remote --file=./schema.sql
-  ```
-
-### 2. **Data Files**
-
-- All seed data is in `data/seed/` as JSON files:
-  - `province.json`: List of provinces
-  - `district/<province_id>.json`: Districts for each province
-  - `municipality/<district_id>.json`: Municipalities for each district
-  - `ward/<municipality_id>.json`: Wards for each municipality
-
-#### **Example Formats**
-
-- **province.json**
-  ```json
-  [{ "value": "1", "label_np": "कोशी", "label_en": "Koshi" }]
-  ```
-- **district/1.json**
-  ```json
-  [{ "id": "3", "name": "इलाम", "name_en": "Ilam" }]
-  ```
-- **municipality/1.json**
-  ```json
-  [
-    {
-      "id": "5001",
-      "name": "आठराई त्रिवेणी गाउँपालिका",
-      "name_en": "Aathrai Triveni Rural Municipality"
-    }
-  ]
-  ```
-- **ward/5001.json**
-  ```json
-  [
-    { "id": "1", "name": "1" },
-    { "id": "2", "name": "2" }
-  ]
-  ```
-
-### 3. **Seeding Scripts**
-
-#### **Provinces, Districts, Municipalities**
-
-- Script: `data/seed/seed-d1.ts`
-- Usage:
-  ```sh
-  bun run data/seed/seed-d1.ts
-  ```
-- This script reads the JSON files and inserts data into D1 using `wrangler d1 execute`.
-
-#### **Wards**
-
-- Script: `data/seed/seed-wards-only-v2.ts`
-- Usage:
-  ```sh
-  bun run data/seed/seed-wards-only-v2.ts
-  ```
-- This script reads all `ward/<municipality_id>.json` files and inserts ward data into D1.
-
-#### **Direct SQL Seeding (Optional)**
-
-- You can also use a single `seed.sql` file with all your `INSERT` statements:
-  ```sh
-  wrangler d1 execute <db-name> --remote --file=./seed.sql
-  ```
-
-### 4. **How to Add or Update Data**
-
-- Edit the relevant JSON file(s) in `data/seed/`.
-- Rerun the appropriate seed script(s) to update the D1 database.
-- If you want to clear and reload data, add `DELETE FROM ...` or `TRUNCATE TABLE ...` statements at the top of your seed script or SQL.
-
-### 5. **Verify the Data**
-
-- After seeding, check your data:
-  ```sh
-  wrangler d1 execute <db-name> --remote --command="SELECT * FROM provinces LIMIT 5;"
-  ```
-
-### 6. **Troubleshooting Seeding**
-
-- **Error: no such table ...**: Run the schema migration first.
-- **Duplicate key errors**: Clear the table before reseeding, or use `INSERT OR REPLACE`.
-- **No data returned by API**: Check that your JSON and seed scripts are correct and executed on the right database.
 
 ---
 
@@ -263,11 +170,104 @@ bun install
    id = "<your-kv-namespace-id>"
    ```
 
-### 4. Migrate and Seed the Database
+## Data & Seeding Workflow
 
-- See the Data & Seeding Workflow section above.
+### 1. **Schema Migration**
 
-### 5. Deploy
+- Before seeding, ensure your D1 database schema is up to date:
+  ```sh
+  wrangler d1 execute nepal-locations --remote --file=./schema.sql
+  ```
+
+### 2. **Data Files**
+
+- All seed data is in `data/seed/` as JSON files:
+  - `province.json`: List of provinces
+  - `district/<province_id>.json`: Districts for each province
+  - `municipality/<district_id>.json`: Municipalities for each district
+  - `ward/<municipality_id>.json`: Wards for each municipality
+
+#### **Example Formats**
+
+- **province.json**
+  ```json
+  [{ "value": "1", "label_np": "कोशी", "label_en": "Koshi" }]
+  ```
+- **district/1.json**
+  ```json
+  [{ "id": "3", "name": "इलाम", "name_en": "Ilam" }]
+  ```
+- **municipality/1.json**
+  ```json
+  [
+    {
+      "id": "5001",
+      "name": "आठराई त्रिवेणी गाउँपालिका",
+      "name_en": "Aathrai Triveni Rural Municipality"
+    }
+  ]
+  ```
+- **ward/5001.json**
+  ```json
+  [
+    { "id": "1", "name": "1" },
+    { "id": "2", "name": "2" }
+  ]
+  ```
+
+### 3. **Seeding Scripts**
+
+#### **Provinces, Districts, Municipalities**
+
+- Script: `data/seed/seed-d1.ts`
+- Usage:
+  ```sh
+  bun run data/seed/seed-d1.ts
+  ```
+- This script reads the JSON files and inserts data into D1 using `wrangler d1 execute`.
+
+#### **Wards**
+
+- Script: `data/seed/seed-wards-only-v2.ts`
+- Usage:
+  ```sh
+  bun run data/seed/seed-wards-only-v2.ts
+  ```
+- This script reads all `ward/<municipality_id>.json` files and inserts ward data into D1.
+
+#### **Direct SQL Seeding (Optional)**
+
+- You can also use a single `seed.sql` file with all your `INSERT` statements:
+  ```sh
+  wrangler d1 execute nepal-locations --remote --file=./seed.sql
+  ```
+
+### 4. **How to Add or Update Data**
+
+- Edit the relevant JSON file(s) in `data/seed/`.
+- Rerun the appropriate seed script(s) to update the D1 database.
+- If you want to clear and reload data, add `DELETE FROM ...` or `TRUNCATE TABLE ...` statements at the top of your seed script or SQL.
+
+### 5. **Verify the Data**
+
+- After seeding, check your data:
+  ```sh
+  wrangler d1 execute nepal-locations --remote --command="SELECT * FROM provinces LIMIT 5;"
+  ```
+
+### 6. **Troubleshooting Seeding**
+
+- **Error: no such table ...**: Run the schema migration first.
+- **Duplicate key errors**: Clear the table before reseeding, or use `INSERT OR REPLACE`.
+- **No data returned by API**: Check that your JSON and seed scripts are correct and executed on the right database.
+
+### 7. test
+
+```sh
+wrangler dev
+```
+
+### 8. Deploy
 
 ```sh
 wrangler deploy
